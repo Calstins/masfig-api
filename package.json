@@ -16,7 +16,8 @@
     "db:deploy": "prisma migrate deploy",
     "db:import-sqlite": "tsx scripts/import-sqlite.ts",
     "create-admin": "tsx scripts/create-admin.ts",
-    "seed:catalog": "tsx scripts/seed-catalog.ts"
+    "seed:catalog": "tsx scripts/seed-catalog.ts",
+    "preflight": "tsx scripts/preflight.ts"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1166.0",

@@ -65,6 +65,11 @@ export function createApp() {
   admin.use(siteAdminRouter)
   api.use('/admin', admin)
 
+  // Opening the API address in a browser shows this, so a fresh deployment can be confirmed at a glance.
+  app.get('/', (_req, res) => {
+    res.json({ message: 'Successful deployment', service: 'MASFIG API', status: 'ok' })
+  })
+
   app.use('/api', api)
   app.use((_req, res) => {
     res.status(404).json({ error: 'Not found' })
