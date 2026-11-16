@@ -23,18 +23,35 @@ class R2Storage implements Storage {
       region: 'auto',
       endpoint: `https://${accountId}.r2.cloudflarestorage.com`,
       credentials: { accessKeyId, secretAccessKey },
+      // Fail fast: a wrong account ID or blocked network must return an error, not hang until the host times out.
+      maxAttempts: 2,
+      requestHandler: { connectionTimeout: 5_000, requestTimeout: 20_000 },
     })
   }
   async put(key: string, body: Buffer, contentType: string) {
-    await this.client.send(
-      new PutObjectCommand({
-        Bucket: this.bucket,
-        Key: key,
-        Body: body,
-        ContentType: contentType,
-        CacheControl: 'public, max-age=31536000, immutable',
-      }),
-    )
+    try {
+      await this.client.send(
+        new PutObjectCommand({
+          Bucket: this.bucket,
+          Key: key,
+          Body: body,
+          ContentType: contentType,
+          CacheControl: 'public, max-age=31536000, immutable',
+        }),
+      )
+    } catch (e) {
+      const name = (e as { name?: string; code?: string }).name || (e as { code?: string }).code || 'Error'
+      console.error('[r2] upload failed:', name, (e as Error).message)
+      const hint: Record<string, string> = {
+        NoSuchBucket: 'the bucket name (R2_BUCKET) does not exist',
+        InvalidAccessKeyId: 'R2_ACCESS_KEY_ID is wrong',
+        SignatureDoesNotMatch: 'R2_SECRET_ACCESS_KEY is wrong',
+        AccessDenied: 'the API token needs Object Read & Write on this bucket',
+        TimeoutError: 'R2 did not answer in time (check R2_ACCOUNT_ID)',
+        ENOTFOUND: 'R2_ACCOUNT_ID looks wrong (host not found)',
+      }
+      throw new HttpError(502, `Could not save to R2: ${hint[name] ?? name}`)
+    }
   }
   async remove(key: string) {
     await this.client.send(new DeleteObjectCommand({ Bucket: this.bucket, Key: key }))

@@ -39,6 +39,14 @@ async function checkEnv() {
   out(env('PUBLIC_SITE_URL') === 'https://masfig.com' ? 'PASS' : 'WARN', 'PUBLIC_SITE_URL is https://masfig.com')
   const r2 = ['R2_ACCOUNT_ID', 'R2_ACCESS_KEY_ID', 'R2_SECRET_ACCESS_KEY', 'R2_BUCKET', 'R2_PUBLIC_URL'].filter((k) => !env(k))
   out(env('STORAGE_DRIVER') === 'r2' && !r2.length ? 'PASS' : 'FAIL', `Cloudflare R2 media settings complete${r2.length ? ` (missing ${r2.join(', ')})` : ''}`)
+  if (env('STORAGE_DRIVER') === 'r2' && !r2.length) {
+    try {
+      const { getStorage } = await import('../src/lib/storage.js')
+      const st = getStorage(); const key = `preflight/${Date.now()}.txt`
+      await st.put(key, Buffer.from('masfig preflight'), 'text/plain'); await st.remove(key)
+      out('PASS', 'R2 test upload and delete worked')
+    } catch (e) { out('FAIL', `R2 test upload failed: ${(e as Error).message}`) }
+  }
   out(env('CF_PAGES_DEPLOY_HOOK_URL') ? 'PASS' : 'WARN', 'CF_PAGES_DEPLOY_HOOK_URL set (admin saves rebuild the site). Leave empty while seeding.')
   if (env('DATABASE_URL')) {
     try {

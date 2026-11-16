@@ -43,6 +43,7 @@ sectionsRouter.get('/:slug', async (req, res) => {
   const slug = strParam(req, 'slug')
   if (!(VALID_SLUGS as readonly string[]).includes(slug)) throw new HttpError(400, 'Invalid section')
   const row = await prisma.section.findUnique({ where: { slug } })
+  if (!row && slug === 'tracking') return void res.json({}) // nothing saved yet: an empty answer, not an error in the browser console
   if (!row) throw notFound('Section not found')
   res.json(row.data)
 })
