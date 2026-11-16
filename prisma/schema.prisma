@@ -1,0 +1,313 @@
+generator client {
+  provider            = "prisma-client"
+  output              = "../src/generated/prisma"
+  moduleFormat        = "esm"
+  importFileExtension = "js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  ADMIN
+  EDITOR
+}
+
+enum PublishStatus {
+  DRAFT
+  PUBLISHED
+}
+
+enum Availability {
+  IN_STOCK
+  ON_REQUEST
+  OUT_OF_STOCK
+  UNKNOWN
+}
+
+enum PriceMode {
+  QUOTE
+  PRICE
+}
+
+enum FaqScope {
+  CATEGORY
+  PRODUCT
+}
+
+enum EnquiryKind {
+  QUOTE
+  BULK
+  GENERAL
+}
+
+enum EnquiryStatus {
+  NEW
+  HANDLED
+}
+
+model User {
+  id                 Int      @id @default(autoincrement())
+  name               String
+  email              String   @unique
+  passwordHash       String
+  role               Role     @default(EDITOR)
+  active             Boolean  @default(true)
+  mustChangePassword Boolean  @default(false)
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+
+  sessions Session[]
+  media    Media[]
+  posts    Post[]
+  audit    AuditLog[]
+}
+
+model Session {
+  id        String    @id
+  userId    Int
+  createdAt DateTime  @default(now())
+  expiresAt DateTime
+  revokedAt DateTime?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model LoginAttempt {
+  id         Int      @id @default(autoincrement())
+  identifier String
+  ipHash     String
+  success    Boolean
+  createdAt  DateTime @default(now())
+
+  @@index([identifier, createdAt])
+  @@index([ipHash, createdAt])
+}
+
+model Section {
+  id        Int      @id @default(autoincrement())
+  slug      String   @unique
+  data      Json
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model SiteTheme {
+  id        Int      @id @default(autoincrement())
+  data      Json
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Media {
+  id           Int      @id @default(autoincrement())
+  filename     String
+  key          String   @unique
+  url          String
+  mimeType     String?
+  size         Int      @default(0)
+  width        Int?
+  height       Int?
+  alt          String   @default("")
+  variants     Json?
+  uploadedById Int?
+  createdAt    DateTime @default(now())
+
+  uploadedBy    User?          @relation(fields: [uploadedById], references: [id], onDelete: SetNull)
+  categories    Category[]
+  heroSlides    HeroSlide[]
+  posts         Post[]
+  productImages ProductImage[]
+
+  @@index([uploadedById])
+}
+
+model Category {
+  id             Int           @id @default(autoincrement())
+  slug           String        @unique
+  name           String
+  h1             String        @default("")
+  intro          String        @default("")
+  seoTitle       String        @default("")
+  seoDescription String        @default("")
+  imageId        Int?
+  imageAlt       String        @default("")
+  sortOrder      Int           @default(0)
+  status         PublishStatus @default(DRAFT)
+  publishedAt    DateTime?
+  createdAt      DateTime      @default(now())
+  updatedAt      DateTime      @updatedAt
+
+  image     Media?    @relation(fields: [imageId], references: [id], onDelete: SetNull)
+  heroSlides HeroSlide[]
+  products  Product[]
+  posts     Post[]
+  faqs      Faq[]
+  enquiries Enquiry[]
+
+  @@index([status, sortOrder])
+}
+
+model Product {
+  id             Int           @id @default(autoincrement())
+  slug           String        @unique
+  name           String
+  brand          String        @default("")
+  model          String        @default("")
+  categoryId     Int
+  summary        String        @default("")
+  description    String        @default("")
+  specs          Json          @default("[]")
+  dimensions     String        @default("")
+  capacity       String        @default("")
+  power          String        @default("")
+  applications   String[]
+  availability   Availability  @default(UNKNOWN)
+  priceMode      PriceMode     @default(QUOTE)
+  price          Decimal?      @db.Decimal(14, 2)
+  currency       String        @default("NGN")
+  warranty       String        @default("")
+  seoTitle       String        @default("")
+  seoDescription String        @default("")
+  sortOrder      Int           @default(0)
+  status         PublishStatus @default(DRAFT)
+  publishedAt    DateTime?
+  createdAt      DateTime      @default(now())
+  updatedAt      DateTime      @updatedAt
+
+  category  Category       @relation(fields: [categoryId], references: [id], onDelete: Restrict)
+  images    ProductImage[]
+  faqs      Faq[]
+  posts     Post[]
+  enquiries Enquiry[]
+
+  @@index([categoryId, status])
+  @@index([status, sortOrder])
+}
+
+model ProductImage {
+  id        Int    @id @default(autoincrement())
+  productId Int
+  mediaId   Int
+  alt       String @default("")
+  sortOrder Int    @default(0)
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  media   Media   @relation(fields: [mediaId], references: [id], onDelete: Restrict)
+
+  @@unique([productId, mediaId])
+}
+
+model Faq {
+  id         Int      @id @default(autoincrement())
+  scope      FaqScope
+  categoryId Int?
+  productId  Int?
+  question   String
+  answer     String
+  sortOrder  Int      @default(0)
+
+  category Category? @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  product  Product?  @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@index([categoryId])
+  @@index([productId])
+}
+
+model Post {
+  id             Int           @id @default(autoincrement())
+  slug           String        @unique
+  title          String
+  excerpt        String        @default("")
+  body           String        @default("")
+  coverImageId   Int?
+  coverAlt       String        @default("")
+  authorId       Int?
+  tags           String[]
+  categoryId     Int?
+  seoTitle       String        @default("")
+  seoDescription String        @default("")
+  status         PublishStatus @default(DRAFT)
+  publishedAt    DateTime?
+  createdAt      DateTime      @default(now())
+  updatedAt      DateTime      @updatedAt
+
+  coverImage Media?    @relation(fields: [coverImageId], references: [id], onDelete: SetNull)
+  author     User?     @relation(fields: [authorId], references: [id], onDelete: SetNull)
+  category   Category? @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+  products   Product[]
+
+  @@index([status, publishedAt])
+}
+
+model Enquiry {
+  id           Int           @id @default(autoincrement())
+  kind         EnquiryKind   @default(QUOTE)
+  name         String
+  phone        String
+  email        String?
+  company      String?
+  message      String
+  quantity     String?
+  productId    Int?
+  categoryId   Int?
+  productName  String?
+  pageUrl      String?
+  utmSource    String?
+  utmMedium    String?
+  utmCampaign  String?
+  utmContent   String?
+  utmTerm      String?
+  ipHash       String?
+  status       EnquiryStatus @default(NEW)
+  handledAt    DateTime?
+  handledById  Int?
+  createdAt    DateTime      @default(now())
+
+  product  Product?  @relation(fields: [productId], references: [id], onDelete: SetNull)
+  category Category? @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+
+  @@index([status, createdAt])
+  @@index([ipHash, createdAt])
+}
+
+model AuditLog {
+  id        Int      @id @default(autoincrement())
+  userId    Int?
+  action    String
+  entity    String
+  entityId  String?
+  meta      Json?
+  createdAt DateTime @default(now())
+
+  user User? @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([createdAt])
+  @@index([entity, entityId])
+}
+
+/// Home page hero carousel. Each slide can point at a category (CTA goes to its page, quote section included).
+model HeroSlide {
+  id             Int       @id @default(autoincrement())
+  eyebrow        String    @default("")
+  title          String
+  subtitle       String    @default("")
+  ctaLabel       String    @default("Explore range")
+  quoteLabel     String    @default("Request a quote")
+  categoryId     Int?
+  linkUrl        String    @default("")
+  imageId        Int?
+  imageAlt       String    @default("")
+  sortOrder      Int       @default(0)
+  active         Boolean   @default(true)
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  category Category? @relation(fields: [categoryId], references: [id], onDelete: SetNull)
+  image    Media?    @relation(fields: [imageId], references: [id], onDelete: SetNull)
+
+  @@index([active, sortOrder])
+}

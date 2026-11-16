@@ -1,0 +1,4919 @@
+[
+ {
+  "name": "Rotary Oven (32/64/128) Trays Oven",
+  "section": "bakery-equipment",
+  "pages": [
+   2
+  ],
+  "images": [
+   "p003-x67.jpg"
+  ],
+  "variants": [
+   "Rotary Oven (32/64/128) Trays Oven"
+  ],
+  "options": [
+   "32/64/128"
+  ]
+ },
+ {
+  "name": "Convection Oven",
+  "section": "bakery-equipment",
+  "pages": [
+   2
+  ],
+  "images": [
+   "p003-x68.jpg"
+  ],
+  "variants": [
+   "Convection Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "Rotary Oven 12 Trays",
+  "section": "bakery-equipment",
+  "pages": [
+   2
+  ],
+  "images": [
+   "p003-x69.jpg"
+  ],
+  "variants": [
+   "Rotary Oven 12 Trays"
+  ],
+  "options": []
+ },
+ {
+  "name": "4 Deck 16 Trays Oven",
+  "section": "bakery-equipment",
+  "pages": [
+   2
+  ],
+  "images": [
+   "p003-x70.jpg"
+  ],
+  "variants": [
+   "4 Deck 16 Trays Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "3 Deck 8 Trays Oven",
+  "section": "bakery-equipment",
+  "pages": [
+   2
+  ],
+  "images": [
+   "p003-x71.jpg"
+  ],
+  "variants": [
+   "3 Deck 8 Trays Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pizza Oven",
+  "section": "bakery-equipment",
+  "pages": [
+   2
+  ],
+  "images": [
+   "p003-x72.jpg",
+   "p003-x74.jpg"
+  ],
+  "variants": [
+   "Pizza Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "2 Deck 4 Trays Oven",
+  "section": "bakery-equipment",
+  "pages": [
+   2
+  ],
+  "images": [
+   "p003-x73.jpg"
+  ],
+  "variants": [
+   "2 Deck 4 Trays Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "Spiral Mixer (50kg)",
+  "section": "bakery-equipment",
+  "pages": [
+   3
+  ],
+  "images": [
+   "p004-x83.jpg",
+   "p004-x85.jpg",
+   "p004-x84.jpg",
+   "p004-x89.jpg"
+  ],
+  "variants": [
+   "Spiral Mixer (100kg)",
+   "Spiral Mixer (50kg)",
+   "Spiral Mixer (Hs-60)"
+  ],
+  "options": [
+   "100kg",
+   "50kg",
+   "Hs-60"
+  ]
+ },
+ {
+  "name": "Cake Mixer (7L)",
+  "section": "bakery-equipment",
+  "pages": [
+   3
+  ],
+  "images": [
+   "p004-x86.jpg",
+   "p004-x87.jpg",
+   "p004-x88.jpg"
+  ],
+  "variants": [
+   "Cake Mixer (30CL-80L)",
+   "Cake Mixer (B-10/15/20)",
+   "Cake Mixer (7L)"
+  ],
+  "options": [
+   "30CL-80L",
+   "B-10/15/20",
+   "7L"
+  ]
+ },
+ {
+  "name": "Dough Moulder",
+  "section": "bakery-equipment",
+  "pages": [
+   4
+  ],
+  "images": [
+   "p005-x99.jpg"
+  ],
+  "variants": [
+   "Dough Moulder"
+  ],
+  "options": []
+ },
+ {
+  "name": "Dough Sheeter (Standing)",
+  "section": "bakery-equipment",
+  "pages": [
+   4
+  ],
+  "images": [
+   "p005-x100.jpg",
+   "p005-x101.jpg"
+  ],
+  "variants": [
+   "Dough Sheeter (Table Top)",
+   "Dough Sheeter (Standing)"
+  ],
+  "options": [
+   "Table Top",
+   "Standing"
+  ]
+ },
+ {
+  "name": "Automatic Dough Divider (20 Cuts)",
+  "section": "bakery-equipment",
+  "pages": [
+   4
+  ],
+  "images": [
+   "p005-x102.jpg",
+   "p005-x103.jpg"
+  ],
+  "variants": [
+   "Automatic Dough Divider (20 Cuts)",
+   "Automatic Dough Divider (36 Cuts)"
+  ],
+  "options": [
+   "20 Cuts",
+   "36 Cuts"
+  ]
+ },
+ {
+  "name": "Manual Dough Divider (36 Cuts)",
+  "section": "bakery-equipment",
+  "pages": [
+   5
+  ],
+  "images": [
+   "p006-x112.jpg"
+  ],
+  "variants": [
+   "Manual Dough Divider (36 Cuts)"
+  ],
+  "options": [
+   "36 Cuts"
+  ]
+ },
+ {
+  "name": "Dough Rounder",
+  "section": "bakery-equipment",
+  "pages": [
+   5
+  ],
+  "images": [
+   "p006-x113.jpg"
+  ],
+  "variants": [
+   "Dough Rounder"
+  ],
+  "options": []
+ },
+ {
+  "name": "Water Chiller",
+  "section": "bakery-equipment",
+  "pages": [
+   5
+  ],
+  "images": [
+   "p006-x114.jpg"
+  ],
+  "variants": [
+   "Water Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Tunnel Oven",
+  "section": "bakery-equipment",
+  "pages": [
+   5
+  ],
+  "images": [
+   "p006-x115.jpg"
+  ],
+  "variants": [
+   "Tunnel Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bread Slicer",
+  "section": "bakery-equipment",
+  "pages": [
+   5,
+   6
+  ],
+  "images": [
+   "p006-x116.jpg",
+   "p006-x117.jpg",
+   "p007-x127.jpg"
+  ],
+  "variants": [
+   "Bread Slicer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Standing Bread Slicer",
+  "section": "bakery-equipment",
+  "pages": [
+   6
+  ],
+  "images": [
+   "p007-x126.jpg"
+  ],
+  "variants": [
+   "Standing Bread Slicer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bread Sealing Tape",
+  "section": "bakery-equipment",
+  "pages": [
+   6
+  ],
+  "images": [
+   "p007-x128.jpg"
+  ],
+  "variants": [
+   "Bread Sealing Tape"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bread Basket",
+  "section": "bakery-equipment",
+  "pages": [
+   6
+  ],
+  "images": [
+   "p007-x129.jpg"
+  ],
+  "variants": [
+   "Bread Basket"
+  ],
+  "options": []
+ },
+ {
+  "name": "Work Table",
+  "section": "bakery-equipment",
+  "pages": [
+   6
+  ],
+  "images": [
+   "p007-x130.jpg"
+  ],
+  "variants": [
+   "Work Table"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bread Cooling Rack",
+  "section": "bakery-equipment",
+  "pages": [
+   7
+  ],
+  "images": [
+   "p008-x139.jpg"
+  ],
+  "variants": [
+   "Bread Cooling Rack"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bakers Rack",
+  "section": "bakery-equipment",
+  "pages": [
+   7
+  ],
+  "images": [
+   "p008-x140.jpg"
+  ],
+  "variants": [
+   "Bakers Rack"
+  ],
+  "options": []
+ },
+ {
+  "name": "Stainless Sink",
+  "section": "bakery-equipment",
+  "pages": [
+   7
+  ],
+  "images": [
+   "p008-x141.jpg"
+  ],
+  "variants": [
+   "Stainless Sink"
+  ],
+  "options": []
+ },
+ {
+  "name": "Chrome Wire Shelves",
+  "section": "bakery-equipment",
+  "pages": [
+   7
+  ],
+  "images": [
+   "p008-x142.jpg"
+  ],
+  "variants": [
+   "Chrome Wire Shelves"
+  ],
+  "options": []
+ },
+ {
+  "name": "Cake Decoration Machine",
+  "section": "bakery-equipment",
+  "pages": [
+   7
+  ],
+  "images": [
+   "p008-x143.jpg"
+  ],
+  "variants": [
+   "Cake Decoration Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pizza Roller Machine",
+  "section": "bakery-equipment",
+  "pages": [
+   7
+  ],
+  "images": [
+   "p008-x144.jpg"
+  ],
+  "variants": [
+   "Pizza Roller Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Manual Pizza Roller Machine",
+  "section": "bakery-equipment",
+  "pages": [
+   7
+  ],
+  "images": [
+   "p008-x145.jpg"
+  ],
+  "variants": [
+   "Manual Pizza Roller Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Digital Weighing Scale",
+  "section": "bakery-equipment",
+  "pages": [
+   8
+  ],
+  "images": [
+   "p009-x154.jpg"
+  ],
+  "variants": [
+   "Digital Weighing Scale"
+  ],
+  "options": []
+ },
+ {
+  "name": "Platform Weighing Scale",
+  "section": "bakery-equipment",
+  "pages": [
+   8
+  ],
+  "images": [
+   "p009-x155.jpg"
+  ],
+  "variants": [
+   "Platform Weighing Scale"
+  ],
+  "options": []
+ },
+ {
+  "name": "Table Top and Standing Cooking Range",
+  "section": "cooking-equipment",
+  "pages": [
+   9
+  ],
+  "images": [
+   "p010-x164.jpg"
+  ],
+  "variants": [
+   "Table Top and Standing Cooking Range"
+  ],
+  "options": []
+ },
+ {
+  "name": "8 Burner Gas Cooker with Oven (4/6/8) Burner",
+  "section": "cooking-equipment",
+  "pages": [
+   9
+  ],
+  "images": [
+   "p010-x165.jpg"
+  ],
+  "variants": [
+   "8 Burner Gas Cooker with Oven (4/6/8) Burner"
+  ],
+  "options": [
+   "4/6/8"
+  ]
+ },
+ {
+  "name": "6 Burner Gas Cooker with Oven (4/6/8) Burner",
+  "section": "cooking-equipment",
+  "pages": [
+   9
+  ],
+  "images": [
+   "p010-x166.jpg"
+  ],
+  "variants": [
+   "6 Burner Gas Cooker with Oven (4/6/8) Burner"
+  ],
+  "options": [
+   "4/6/8"
+  ]
+ },
+ {
+  "name": "Combined 4 Burner Gas Cooker, Oven with Griddle",
+  "section": "cooking-equipment",
+  "pages": [
+   9
+  ],
+  "images": [
+   "p010-x167.jpg"
+  ],
+  "variants": [
+   "Combined 4 Burner Gas Cooker, Oven with Griddle"
+  ],
+  "options": []
+ },
+ {
+  "name": "4 Burner Electric Cooker with Oven (4/6/8)",
+  "section": "cooking-equipment",
+  "pages": [
+   10
+  ],
+  "images": [
+   "p011-x176.jpg"
+  ],
+  "variants": [
+   "4 Burner Electric Cooker with Oven (4/6/8)"
+  ],
+  "options": [
+   "4/6/8"
+  ]
+ },
+ {
+  "name": "6 Burner Gas Cooker (2/4/8/10) Burners",
+  "section": "cooking-equipment",
+  "pages": [
+   10
+  ],
+  "images": [
+   "p011-x177.jpg"
+  ],
+  "variants": [
+   "6 Burner Gas Cooker (2/4/8/10) Burners"
+  ],
+  "options": [
+   "2/4/8/10"
+  ]
+ },
+ {
+  "name": "Chinese Gas Cooker",
+  "section": "cooking-equipment",
+  "pages": [
+   10
+  ],
+  "images": [
+   "p011-x178.jpg"
+  ],
+  "variants": [
+   "Chinese Gas Cooker"
+  ],
+  "options": []
+ },
+ {
+  "name": "2 Burner Stock Pot (2/4) Burners",
+  "section": "cooking-equipment",
+  "pages": [
+   10
+  ],
+  "images": [
+   "p011-x179.jpg"
+  ],
+  "variants": [
+   "2 Burner Stock Pot (2/4) Burners"
+  ],
+  "options": [
+   "2/4"
+  ]
+ },
+ {
+  "name": "2 Burner Stock Pot Gas Cooker (1/2/3 Burner)",
+  "section": "cooking-equipment",
+  "pages": [
+   10
+  ],
+  "images": [
+   "p011-x180.jpg"
+  ],
+  "variants": [
+   "2 Burner Stock Pot Gas Cooker (1/2/3 Burner)"
+  ],
+  "options": [
+   "1/2/3 Burner"
+  ]
+ },
+ {
+  "name": "Cabinet/Table Top Griddle Machine (Gas Electric)",
+  "section": "cooking-equipment",
+  "pages": [
+   10
+  ],
+  "images": [
+   "p011-x181.jpg"
+  ],
+  "variants": [
+   "Cabinet/Table Top Griddle Machine (Gas Electric)"
+  ],
+  "options": [
+   "Gas Electric"
+  ]
+ },
+ {
+  "name": "Gas Griddle Machine",
+  "section": "cooking-equipment",
+  "pages": [
+   11
+  ],
+  "images": [
+   "p012-x190.jpg"
+  ],
+  "variants": [
+   "Gas Griddle Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "1 Deck Gas Oven",
+  "section": "cooking-equipment",
+  "pages": [
+   11
+  ],
+  "images": [
+   "p012-x191.jpg"
+  ],
+  "variants": [
+   "1 Deck Gas Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "Electric Shawarma Toaster (Single and Double)",
+  "section": "cooking-equipment",
+  "pages": [
+   11
+  ],
+  "images": [
+   "p012-x192.jpg"
+  ],
+  "variants": [
+   "Electric Shawarma Toaster (Single and Double)"
+  ],
+  "options": [
+   "Single and Double"
+  ]
+ },
+ {
+  "name": "Gas Shawarma Machine (2/3/4,) Burner",
+  "section": "cooking-equipment",
+  "pages": [
+   11
+  ],
+  "images": [
+   "p012-x193.jpg"
+  ],
+  "variants": [
+   "Gas Shawarma Machine (2/3/4,) Burner"
+  ],
+  "options": [
+   "2/3/4,"
+  ]
+ },
+ {
+  "name": "Electric Shawarma Machine",
+  "section": "cooking-equipment",
+  "pages": [
+   11
+  ],
+  "images": [
+   "p012-x194.jpg"
+  ],
+  "variants": [
+   "Electric Shawarma Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Deep Fryer with Cabinet Single & Double (Gas and Electric)",
+  "section": "cooking-equipment",
+  "pages": [
+   11
+  ],
+  "images": [
+   "p012-x195.jpg"
+  ],
+  "variants": [
+   "Deep Fryer with Cabinet Single & Double (Gas and Electric)"
+  ],
+  "options": [
+   "Gas and Electric"
+  ]
+ },
+ {
+  "name": "Standing Gas Deep Fryer",
+  "section": "cooking-equipment",
+  "pages": [
+   11
+  ],
+  "images": [
+   "p012-x196.jpg"
+  ],
+  "variants": [
+   "Standing Gas Deep Fryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Table Top Electric Deep Fryer",
+  "section": "cooking-equipment",
+  "pages": [
+   12
+  ],
+  "images": [
+   "p013-x205.jpg"
+  ],
+  "variants": [
+   "Table Top Electric Deep Fryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Standing Pressure Fryer",
+  "section": "cooking-equipment",
+  "pages": [
+   12
+  ],
+  "images": [
+   "p013-x206.jpg"
+  ],
+  "variants": [
+   "Standing Pressure Fryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Table Top Pressure Fryer",
+  "section": "cooking-equipment",
+  "pages": [
+   12
+  ],
+  "images": [
+   "p013-x207.jpg"
+  ],
+  "variants": [
+   "Table Top Pressure Fryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "6 Steps Gas Chicken Rotisserie",
+  "section": "cooking-equipment",
+  "pages": [
+   12
+  ],
+  "images": [
+   "p013-x208.jpg"
+  ],
+  "variants": [
+   "6 Steps Gas Chicken Rotisserie"
+  ],
+  "options": []
+ },
+ {
+  "name": "Chicken Rotisserie (Gas & Electric)",
+  "section": "cooking-equipment",
+  "pages": [
+   12
+  ],
+  "images": [
+   "p013-x209.jpg"
+  ],
+  "variants": [
+   "Chicken Rotisserie (Gas & Electric)"
+  ],
+  "options": [
+   "Gas & Electric"
+  ]
+ },
+ {
+  "name": "Gas/Electric Chicken Rotisserie (12-15) Chickens",
+  "section": "cooking-equipment",
+  "pages": [
+   12
+  ],
+  "images": [
+   "p013-x210.jpg"
+  ],
+  "variants": [
+   "Gas/Electric Chicken Rotisserie (12-15) Chickens"
+  ],
+  "options": [
+   "12-15"
+  ]
+ },
+ {
+  "name": "Hot Dog Grill",
+  "section": "cooking-equipment",
+  "pages": [
+   12
+  ],
+  "images": [
+   "p013-x211.jpg"
+  ],
+  "variants": [
+   "Hot Dog Grill"
+  ],
+  "options": []
+ },
+ {
+  "name": "6 Burner Gas Grill with Stove",
+  "section": "cooking-equipment",
+  "pages": [
+   13
+  ],
+  "images": [
+   "p014-x220.jpg"
+  ],
+  "variants": [
+   "6 Burner Gas Grill with Stove"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pop Corn Machine",
+  "section": "cooking-equipment",
+  "pages": [
+   13
+  ],
+  "images": [
+   "p014-x221.jpg"
+  ],
+  "variants": [
+   "Pop Corn Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Candy Floss (Gas and Electric)",
+  "section": "cooking-equipment",
+  "pages": [
+   13
+  ],
+  "images": [
+   "p014-x222.jpg"
+  ],
+  "variants": [
+   "Candy Floss (Gas and Electric)"
+  ],
+  "options": [
+   "Gas and Electric"
+  ]
+ },
+ {
+  "name": "Fabricated Chicken & Beef Gas Shawarma Machine",
+  "section": "cooking-equipment",
+  "pages": [
+   13
+  ],
+  "images": [
+   "p014-x223.jpg"
+  ],
+  "variants": [
+   "Fabricated Chicken & Beef Gas Shawarma Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Fabricated Shawarma Machine (Single)",
+  "section": "cooking-equipment",
+  "pages": [
+   13
+  ],
+  "images": [
+   "p014-x224.jpg"
+  ],
+  "variants": [
+   "Fabricated Shawarma Machine (Single)"
+  ],
+  "options": [
+   "Single"
+  ]
+ },
+ {
+  "name": "Locally Fabricated Grill (Different Sizes)",
+  "section": "cooking-equipment",
+  "pages": [
+   13
+  ],
+  "images": [
+   "p014-x225.jpg"
+  ],
+  "variants": [
+   "Locally Fabricated Grill (Different Sizes)"
+  ],
+  "options": [
+   "Different Sizes"
+  ]
+ },
+ {
+  "name": "Locally Fabricated 2 Burner Gas Cooker (2/4)Burner",
+  "section": "cooking-equipment",
+  "pages": [
+   13
+  ],
+  "images": [
+   "p014-x226.jpg"
+  ],
+  "variants": [
+   "Locally Fabricated 2 Burner Gas Cooker (2/4)Burner"
+  ],
+  "options": [
+   "2/4"
+  ]
+ },
+ {
+  "name": "Bread Toaster (4/6) Slices",
+  "section": "cooking-equipment",
+  "pages": [
+   14
+  ],
+  "images": [
+   "p015-x235.jpg"
+  ],
+  "variants": [
+   "Bread Toaster (4/6) Slices"
+  ],
+  "options": [
+   "4/6"
+  ]
+ },
+ {
+  "name": "Boiling Pan",
+  "section": "cooking-equipment",
+  "pages": [
+   14
+  ],
+  "images": [
+   "p015-x236.jpg"
+  ],
+  "variants": [
+   "Boiling Pan"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pressure Pot (15L - 150L)",
+  "section": "cooking-equipment",
+  "pages": [
+   14
+  ],
+  "images": [
+   "p015-x237.jpg"
+  ],
+  "variants": [
+   "Pressure Pot (15L - 150L)"
+  ],
+  "options": [
+   "15L - 150L"
+  ]
+ },
+ {
+  "name": "Charcoal Barbecue Grill",
+  "section": "cooking-equipment",
+  "pages": [
+   14
+  ],
+  "images": [
+   "p015-x238.jpg"
+  ],
+  "variants": [
+   "Charcoal Barbecue Grill"
+  ],
+  "options": []
+ },
+ {
+  "name": "Juice Extractor",
+  "section": "food-processing",
+  "pages": [
+   15,
+   16
+  ],
+  "images": [
+   "p016-x247.jpg",
+   "p017-x266.jpg"
+  ],
+  "variants": [
+   "Juice Extractor"
+  ],
+  "options": []
+ },
+ {
+  "name": "Blender",
+  "section": "food-processing",
+  "pages": [
+   15
+  ],
+  "images": [
+   "p016-x248.jpg"
+  ],
+  "variants": [
+   "Blender"
+  ],
+  "options": []
+ },
+ {
+  "name": "Food Processor",
+  "section": "food-processing",
+  "pages": [
+   15
+  ],
+  "images": [
+   "p016-x249.jpg"
+  ],
+  "variants": [
+   "Food Processor"
+  ],
+  "options": []
+ },
+ {
+  "name": "Wet and Dry Stainless Grinder",
+  "section": "food-processing",
+  "pages": [
+   15
+  ],
+  "images": [
+   "p016-x250.jpg"
+  ],
+  "variants": [
+   "Wet and Dry Stainless Grinder"
+  ],
+  "options": []
+ },
+ {
+  "name": "Commercial Blender",
+  "section": "food-processing",
+  "pages": [
+   15
+  ],
+  "images": [
+   "p016-x251.jpg"
+  ],
+  "variants": [
+   "Commercial Blender"
+  ],
+  "options": []
+ },
+ {
+  "name": "Chin Chin/ Noodles Cutter",
+  "section": "food-processing",
+  "pages": [
+   15
+  ],
+  "images": [
+   "p016-x252.jpg"
+  ],
+  "variants": [
+   "Chin Chin/ Noodles Cutter"
+  ],
+  "options": []
+ },
+ {
+  "name": "Automatic Chin Chin Cutter",
+  "section": "food-processing",
+  "pages": [
+   15
+  ],
+  "images": [
+   "p016-x253.jpg"
+  ],
+  "variants": [
+   "Automatic Chin Chin Cutter"
+  ],
+  "options": []
+ },
+ {
+  "name": "Dehydrator",
+  "section": "food-processing",
+  "pages": [
+   15
+  ],
+  "images": [
+   "p016-x254.jpg"
+  ],
+  "variants": [
+   "Dehydrator"
+  ],
+  "options": []
+ },
+ {
+  "name": "Peanut/ Groundnut Roaster",
+  "section": "food-processing",
+  "pages": [
+   16
+  ],
+  "images": [
+   "p017-x263.jpg"
+  ],
+  "variants": [
+   "Peanut/ Groundnut Roaster"
+  ],
+  "options": []
+ },
+ {
+  "name": "Peanut Coating Machine",
+  "section": "food-processing",
+  "pages": [
+   16
+  ],
+  "images": [
+   "p017-x264.jpg"
+  ],
+  "variants": [
+   "Peanut Coating Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Automatic Citrus Juice Extractor",
+  "section": "food-processing",
+  "pages": [
+   16
+  ],
+  "images": [
+   "p017-x265.jpg"
+  ],
+  "variants": [
+   "Automatic Citrus Juice Extractor"
+  ],
+  "options": []
+ },
+ {
+  "name": "Tiger Nut Extractor",
+  "section": "food-processing",
+  "pages": [
+   16
+  ],
+  "images": [
+   "p017-x267.jpg"
+  ],
+  "variants": [
+   "Tiger Nut Extractor"
+  ],
+  "options": []
+ },
+ {
+  "name": "Sugar Cane Extractor",
+  "section": "food-processing",
+  "pages": [
+   16
+  ],
+  "images": [
+   "p017-x268.jpg"
+  ],
+  "variants": [
+   "Sugar Cane Extractor"
+  ],
+  "options": []
+ },
+ {
+  "name": "Manual Citrus Juicer",
+  "section": "food-processing",
+  "pages": [
+   16
+  ],
+  "images": [
+   "p017-x269.jpg"
+  ],
+  "variants": [
+   "Manual Citrus Juicer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Meat Mincer",
+  "section": "food-processing",
+  "pages": [
+   16
+  ],
+  "images": [
+   "p017-x270.jpg"
+  ],
+  "variants": [
+   "Meat Mincer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Meat Cutter",
+  "section": "food-processing",
+  "pages": [
+   17
+  ],
+  "images": [
+   "p018-x279.jpg"
+  ],
+  "variants": [
+   "Meat Cutter"
+  ],
+  "options": []
+ },
+ {
+  "name": "Meat Chiller",
+  "section": "food-processing",
+  "pages": [
+   17
+  ],
+  "images": [
+   "p018-x280.jpg"
+  ],
+  "variants": [
+   "Meat Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Meat Grinder",
+  "section": "food-processing",
+  "pages": [
+   17
+  ],
+  "images": [
+   "p018-x281.jpg"
+  ],
+  "variants": [
+   "Meat Grinder"
+  ],
+  "options": []
+ },
+ {
+  "name": "Feather Plucker",
+  "section": "food-processing",
+  "pages": [
+   17
+  ],
+  "images": [
+   "p018-x282.jpg"
+  ],
+  "variants": [
+   "Feather Plucker"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bone Saw",
+  "section": "food-processing",
+  "pages": [
+   17
+  ],
+  "images": [
+   "p018-x283.jpg"
+  ],
+  "variants": [
+   "Bone Saw"
+  ],
+  "options": []
+ },
+ {
+  "name": "Dry Grinder",
+  "section": "food-processing",
+  "pages": [
+   17
+  ],
+  "images": [
+   "p018-x284.jpg"
+  ],
+  "variants": [
+   "Dry Grinder"
+  ],
+  "options": []
+ },
+ {
+  "name": "Potato Peeler",
+  "section": "food-processing",
+  "pages": [
+   18
+  ],
+  "images": [
+   "p019-x293.jpg"
+  ],
+  "variants": [
+   "Potato Peeler"
+  ],
+  "options": []
+ },
+ {
+  "name": "Vegetable Cutter",
+  "section": "food-processing",
+  "pages": [
+   18
+  ],
+  "images": [
+   "p019-x294.jpg",
+   "p019-x296.jpg"
+  ],
+  "variants": [
+   "Vegetable Cutter"
+  ],
+  "options": []
+ },
+ {
+  "name": "Manual Vegetable Cutter",
+  "section": "food-processing",
+  "pages": [
+   18
+  ],
+  "images": [
+   "p019-x295.jpg"
+  ],
+  "variants": [
+   "Manual Vegetable Cutter"
+  ],
+  "options": []
+ },
+ {
+  "name": "Vibrating Sieve",
+  "section": "food-processing",
+  "pages": [
+   18
+  ],
+  "images": [
+   "p019-x297.jpg",
+   "p019-x298.jpg",
+   "p019-x299.jpg"
+  ],
+  "variants": [
+   "Vibrating Sieve"
+  ],
+  "options": []
+ },
+ {
+  "name": "Convection Oven",
+  "section": "fast-food-equipment",
+  "pages": [
+   19
+  ],
+  "images": [
+   "p020-x308.jpg"
+  ],
+  "variants": [
+   "Convection Oven"
+  ],
+  "options": []
+ },
+ {
+  "name": "Rotary Oven (12 Trays)",
+  "section": "fast-food-equipment",
+  "pages": [
+   19
+  ],
+  "images": [
+   "p020-x309.jpg"
+  ],
+  "variants": [
+   "Rotary Oven (12 Trays)"
+  ],
+  "options": [
+   "12 Trays"
+  ]
+ },
+ {
+  "name": "Blender",
+  "section": "fast-food-equipment",
+  "pages": [
+   19
+  ],
+  "images": [
+   "p020-x310.jpg"
+  ],
+  "variants": [
+   "Blender"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cream Machine (Standing)",
+  "section": "fast-food-equipment",
+  "pages": [
+   19
+  ],
+  "images": [
+   "p020-x311.jpg"
+  ],
+  "variants": [
+   "Ice Cream Machine (Standing)"
+  ],
+  "options": [
+   "Standing"
+  ]
+ },
+ {
+  "name": "Pizza Roller",
+  "section": "fast-food-equipment",
+  "pages": [
+   19
+  ],
+  "images": [
+   "p020-x312.jpg"
+  ],
+  "variants": [
+   "Pizza Roller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Cake Decoration Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   19
+  ],
+  "images": [
+   "p020-x313.jpg"
+  ],
+  "variants": [
+   "Cake Decoration Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bread Toaster (4/6) Slice",
+  "section": "fast-food-equipment",
+  "pages": [
+   19
+  ],
+  "images": [
+   "p020-x314.jpg"
+  ],
+  "variants": [
+   "Bread Toaster (4/6) Slice"
+  ],
+  "options": [
+   "4/6"
+  ]
+ },
+ {
+  "name": "Food Warmer with Cabinet",
+  "section": "fast-food-equipment",
+  "pages": [
+   20
+  ],
+  "images": [
+   "p021-x323.jpg"
+  ],
+  "variants": [
+   "Food Warmer with Cabinet"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pizza Work Table with Chiller",
+  "section": "fast-food-equipment",
+  "pages": [
+   20
+  ],
+  "images": [
+   "p021-x324.jpg"
+  ],
+  "variants": [
+   "Pizza Work Table with Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Deep Fryer",
+  "section": "fast-food-equipment",
+  "pages": [
+   20,
+   27
+  ],
+  "images": [
+   "p021-x325.jpg",
+   "p028-x425.jpg"
+  ],
+  "variants": [
+   "Deep Fryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pizza Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   20
+  ],
+  "images": [
+   "p021-x326.jpg"
+  ],
+  "variants": [
+   "Pizza Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cream Display Chiller",
+  "section": "fast-food-equipment",
+  "pages": [
+   21
+  ],
+  "images": [
+   "p022-x335.jpg"
+  ],
+  "variants": [
+   "Ice Cream Display Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cream Fryer",
+  "section": "fast-food-equipment",
+  "pages": [
+   21
+  ],
+  "images": [
+   "p022-x336.jpg"
+  ],
+  "variants": [
+   "Ice Cream Fryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pancake Maker",
+  "section": "fast-food-equipment",
+  "pages": [
+   21
+  ],
+  "images": [
+   "p022-x337.jpg"
+  ],
+  "variants": [
+   "Pancake Maker"
+  ],
+  "options": []
+ },
+ {
+  "name": "Shawarma Toaster",
+  "section": "fast-food-equipment",
+  "pages": [
+   21
+  ],
+  "images": [
+   "p022-x338.jpg"
+  ],
+  "variants": [
+   "Shawarma Toaster"
+  ],
+  "options": []
+ },
+ {
+  "name": "Food Warmer (12 Plates)",
+  "section": "fast-food-equipment",
+  "pages": [
+   21
+  ],
+  "images": [
+   "p022-x339.jpg"
+  ],
+  "variants": [
+   "Food Warmer (12 Plates)"
+  ],
+  "options": [
+   "12 Plates"
+  ]
+ },
+ {
+  "name": "Griddle (Table Top)",
+  "section": "fast-food-equipment",
+  "pages": [
+   22
+  ],
+  "images": [
+   "p023-x348.jpg"
+  ],
+  "variants": [
+   "Griddle (Table Top)"
+  ],
+  "options": [
+   "Table Top"
+  ]
+ },
+ {
+  "name": "Ice Cream Popsicle",
+  "section": "fast-food-equipment",
+  "pages": [
+   22
+  ],
+  "images": [
+   "p023-x349.jpg"
+  ],
+  "variants": [
+   "Ice Cream Popsicle"
+  ],
+  "options": []
+ },
+ {
+  "name": "Batch/Hard Ice Cream",
+  "section": "fast-food-equipment",
+  "pages": [
+   22
+  ],
+  "images": [
+   "p023-x350.jpg"
+  ],
+  "variants": [
+   "Batch/Hard Ice Cream"
+  ],
+  "options": []
+ },
+ {
+  "name": "Snacks Warmer (6/8 Plates)",
+  "section": "fast-food-equipment",
+  "pages": [
+   22
+  ],
+  "images": [
+   "p023-x351.jpg"
+  ],
+  "variants": [
+   "Snacks Warmer (6/8 Plates)"
+  ],
+  "options": [
+   "6/8 Plates"
+  ]
+ },
+ {
+  "name": "Curved/Straight Cake Chiller (3/4/5/6 Feet)",
+  "section": "fast-food-equipment",
+  "pages": [
+   22
+  ],
+  "images": [
+   "p023-x352.jpg"
+  ],
+  "variants": [
+   "Curved/Straight Cake Chiller (3/4/5/6 Feet)"
+  ],
+  "options": [
+   "3/4/5/6 Feet"
+  ]
+ },
+ {
+  "name": "Black Snacks Warmer (2/3 Feet)",
+  "section": "fast-food-equipment",
+  "pages": [
+   22
+  ],
+  "images": [
+   "p023-x353.jpg"
+  ],
+  "variants": [
+   "Black Snacks Warmer (2/3 Feet)"
+  ],
+  "options": [
+   "2/3 Feet"
+  ]
+ },
+ {
+  "name": "Fabricated Food Warmer (3/4/5/8/10/12 Plates)",
+  "section": "fast-food-equipment",
+  "pages": [
+   23
+  ],
+  "images": [
+   "p024-x362.jpg"
+  ],
+  "variants": [
+   "Fabricated Food Warmer (3/4/5/8/10/12 Plates)"
+  ],
+  "options": [
+   "3/4/5/8/10/12 Plates"
+  ]
+ },
+ {
+  "name": "Revolving Standing Cake Chiller",
+  "section": "fast-food-equipment",
+  "pages": [
+   23
+  ],
+  "images": [
+   "p024-x363.jpg"
+  ],
+  "variants": [
+   "Revolving Standing Cake Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Food Warmer Holding Cabinet",
+  "section": "fast-food-equipment",
+  "pages": [
+   23
+  ],
+  "images": [
+   "p024-x364.jpg"
+  ],
+  "variants": [
+   "Food Warmer Holding Cabinet"
+  ],
+  "options": []
+ },
+ {
+  "name": "Shawarma Kebab Machine (Imported)",
+  "section": "fast-food-equipment",
+  "pages": [
+   23,
+   26
+  ],
+  "images": [
+   "p024-x365.jpg",
+   "p027-x410.jpg"
+  ],
+  "variants": [
+   "Shawarma Kebab Machine (Imported)",
+   "Shawarma Kebab Machine (Gas/Electric)"
+  ],
+  "options": [
+   "Imported",
+   "Gas/Electric"
+  ]
+ },
+ {
+  "name": "Curved Glass Food Warmer",
+  "section": "fast-food-equipment",
+  "pages": [
+   23
+  ],
+  "images": [
+   "p024-x366.jpg"
+  ],
+  "variants": [
+   "Curved Glass Food Warmer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Black Curved Snacks Warmer (3 Plates)",
+  "section": "fast-food-equipment",
+  "pages": [
+   23
+  ],
+  "images": [
+   "p024-x367.jpg"
+  ],
+  "variants": [
+   "Black Curved Snacks Warmer (3 Plates)"
+  ],
+  "options": [
+   "3 Plates"
+  ]
+ },
+ {
+  "name": "Griddle Machine (Standing with Cabinet)",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x376.jpg"
+  ],
+  "variants": [
+   "Griddle Machine (Standing with Cabinet)"
+  ],
+  "options": [
+   "Standing with Cabinet"
+  ]
+ },
+ {
+  "name": "Chin Chin Cutter",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x377.jpg"
+  ],
+  "variants": [
+   "Chin Chin Cutter"
+  ],
+  "options": []
+ },
+ {
+  "name": "Chin Chin Cutter Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x378.jpg"
+  ],
+  "variants": [
+   "Chin Chin Cutter Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Peanut Coating Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x379.jpg"
+  ],
+  "variants": [
+   "Peanut Coating Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cube Maker",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x380.jpg"
+  ],
+  "variants": [
+   "Ice Cube Maker"
+  ],
+  "options": []
+ },
+ {
+  "name": "Juicer",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x381.jpg"
+  ],
+  "variants": [
+   "Juicer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Automatic Citrus Juicer Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x382.jpg"
+  ],
+  "variants": [
+   "Automatic Citrus Juicer Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Manual Citrus Juicer",
+  "section": "fast-food-equipment",
+  "pages": [
+   24
+  ],
+  "images": [
+   "p025-x383.jpg"
+  ],
+  "variants": [
+   "Manual Citrus Juicer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Sugarcane Extractor Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   25
+  ],
+  "images": [
+   "p026-x392.jpg"
+  ],
+  "variants": [
+   "Sugarcane Extractor Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Juice Dispenser (1/2/3) Chambers",
+  "section": "fast-food-equipment",
+  "pages": [
+   25
+  ],
+  "images": [
+   "p026-x393.jpg"
+  ],
+  "variants": [
+   "Juice Dispenser (1/2/3) Chambers"
+  ],
+  "options": [
+   "1/2/3"
+  ]
+ },
+ {
+  "name": "Manual Pizza Dough Press",
+  "section": "fast-food-equipment",
+  "pages": [
+   25
+  ],
+  "images": [
+   "p026-x394.jpg"
+  ],
+  "variants": [
+   "Manual Pizza Dough Press"
+  ],
+  "options": []
+ },
+ {
+  "name": "Cotton Candy Machine (Gas/Electric)",
+  "section": "fast-food-equipment",
+  "pages": [
+   25
+  ],
+  "images": [
+   "p026-x395.jpg"
+  ],
+  "variants": [
+   "Cotton Candy Machine (Gas/Electric)"
+  ],
+  "options": [
+   "Gas/Electric"
+  ]
+ },
+ {
+  "name": "Popcorn Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   25
+  ],
+  "images": [
+   "p026-x396.jpg"
+  ],
+  "variants": [
+   "Popcorn Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Table Top Lava Rock Grill",
+  "section": "fast-food-equipment",
+  "pages": [
+   25
+  ],
+  "images": [
+   "p026-x397.jpg"
+  ],
+  "variants": [
+   "Table Top Lava Rock Grill"
+  ],
+  "options": []
+ },
+ {
+  "name": "Shawarma Toaster Single",
+  "section": "fast-food-equipment",
+  "pages": [
+   26
+  ],
+  "images": [
+   "p027-x406.jpg"
+  ],
+  "variants": [
+   "Shawarma Toaster Single"
+  ],
+  "options": []
+ },
+ {
+  "name": "Fabricated Shawarma Toaster",
+  "section": "fast-food-equipment",
+  "pages": [
+   26
+  ],
+  "images": [
+   "p027-x407.jpg"
+  ],
+  "variants": [
+   "Fabricated Shawarma Toaster"
+  ],
+  "options": []
+ },
+ {
+  "name": "Chicken Rotisserie",
+  "section": "fast-food-equipment",
+  "pages": [
+   26
+  ],
+  "images": [
+   "p027-x408.jpg"
+  ],
+  "variants": [
+   "Chicken Rotisserie"
+  ],
+  "options": []
+ },
+ {
+  "name": "Table Top Chicken Roaster (Gas/Electric)",
+  "section": "fast-food-equipment",
+  "pages": [
+   26
+  ],
+  "images": [
+   "p027-x409.jpg",
+   "p027-x411.jpg"
+  ],
+  "variants": [
+   "Table Top Chicken Roaster (Gas/Electric)"
+  ],
+  "options": [
+   "Gas/Electric"
+  ]
+ },
+ {
+  "name": "Standing Chicken Roaster (Gas/Electric)",
+  "section": "fast-food-equipment",
+  "pages": [
+   26
+  ],
+  "images": [
+   "p027-x412.jpg"
+  ],
+  "variants": [
+   "Standing Chicken Roaster (Gas/Electric)"
+  ],
+  "options": [
+   "Gas/Electric"
+  ]
+ },
+ {
+  "name": "Crepe Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   27
+  ],
+  "images": [
+   "p028-x421.jpg"
+  ],
+  "variants": [
+   "Crepe Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Waffle Maker Machine",
+  "section": "fast-food-equipment",
+  "pages": [
+   27
+  ],
+  "images": [
+   "p028-x422.jpg"
+  ],
+  "variants": [
+   "Waffle Maker Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pressure Fryer (Standing)",
+  "section": "fast-food-equipment",
+  "pages": [
+   27
+  ],
+  "images": [
+   "p028-x423.jpg",
+   "p028-x424.jpg"
+  ],
+  "variants": [
+   "Pressure Fryer (Standing)",
+   "Pressure Fryer (Table Top)"
+  ],
+  "options": [
+   "Standing",
+   "Table Top"
+  ]
+ },
+ {
+  "name": "Hot Dog Grill",
+  "section": "fast-food-equipment",
+  "pages": [
+   28
+  ],
+  "images": [
+   "p029-x434.jpg"
+  ],
+  "variants": [
+   "Hot Dog Grill"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cream Display Chiller",
+  "section": "refrigeration",
+  "pages": [
+   29
+  ],
+  "images": [
+   "p030-x443.jpg"
+  ],
+  "variants": [
+   "Ice Cream Display Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Marble Pizza Table with Chiller",
+  "section": "refrigeration",
+  "pages": [
+   29
+  ],
+  "images": [
+   "p030-x444.jpg"
+  ],
+  "variants": [
+   "Marble Pizza Table with Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cube Machine",
+  "section": "refrigeration",
+  "pages": [
+   29,
+   31
+  ],
+  "images": [
+   "p030-x445.jpg",
+   "p032-x471.jpg"
+  ],
+  "variants": [
+   "Ice Cube Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Water Chiller",
+  "section": "refrigeration",
+  "pages": [
+   29
+  ],
+  "images": [
+   "p030-x446.jpg"
+  ],
+  "variants": [
+   "Water Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Standing Cake Chiller (Curved Glass)",
+  "section": "refrigeration",
+  "pages": [
+   29,
+   30
+  ],
+  "images": [
+   "p030-x447.jpg",
+   "p031-x458.jpg"
+  ],
+  "variants": [
+   "Standing Cake Chiller (Straight Glass)",
+   "Standing Cake Chiller (Curved Glass)"
+  ],
+  "options": [
+   "Straight Glass",
+   "Curved Glass"
+  ]
+ },
+ {
+  "name": "Meat Chiller",
+  "section": "refrigeration",
+  "pages": [
+   29
+  ],
+  "images": [
+   "p030-x448.jpg"
+  ],
+  "variants": [
+   "Meat Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Salad Bar Chiller",
+  "section": "refrigeration",
+  "pages": [
+   30,
+   31,
+   32
+  ],
+  "images": [
+   "p031-x457.jpg",
+   "p032-x475.jpg",
+   "p033-x488.jpg"
+  ],
+  "variants": [
+   "Salad Bar Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Doors Display Chiller",
+  "section": "refrigeration",
+  "pages": [
+   30
+  ],
+  "images": [
+   "p031-x459.jpg"
+  ],
+  "variants": [
+   "Single Doors Display Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Doors Fridge/Freezer",
+  "section": "refrigeration",
+  "pages": [
+   30
+  ],
+  "images": [
+   "p031-x460.jpg"
+  ],
+  "variants": [
+   "Single Doors Fridge/Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Juice Dispenser",
+  "section": "refrigeration",
+  "pages": [
+   30
+  ],
+  "images": [
+   "p031-x461.jpg"
+  ],
+  "variants": [
+   "Juice Dispenser"
+  ],
+  "options": []
+ },
+ {
+  "name": "3 Doors Display Chiller",
+  "section": "refrigeration",
+  "pages": [
+   31
+  ],
+  "images": [
+   "p032-x470.jpg"
+  ],
+  "variants": [
+   "3 Doors Display Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "4 Doors Fridge/Freezer",
+  "section": "refrigeration",
+  "pages": [
+   31
+  ],
+  "images": [
+   "p032-x472.jpg"
+  ],
+  "variants": [
+   "4 Doors Fridge/Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Salad Bar Chiller/Fridge (2/3) Doors",
+  "section": "refrigeration",
+  "pages": [
+   31
+  ],
+  "images": [
+   "p032-x473.jpg"
+  ],
+  "variants": [
+   "Salad Bar Chiller/Fridge (2/3) Doors"
+  ],
+  "options": [
+   "2/3"
+  ]
+ },
+ {
+  "name": "6 Doors Fridge/Freezer (1-6) Doors",
+  "section": "refrigeration",
+  "pages": [
+   31
+  ],
+  "images": [
+   "p032-x474.jpg"
+  ],
+  "variants": [
+   "6 Doors Fridge/Freezer (1-6) Doors"
+  ],
+  "options": [
+   "1-6"
+  ]
+ },
+ {
+  "name": "Meat Chiller (4-8) Feet",
+  "section": "refrigeration",
+  "pages": [
+   32,
+   33
+  ],
+  "images": [
+   "p033-x484.jpg",
+   "p034-x498.jpg"
+  ],
+  "variants": [
+   "Meat Chiller (4-8) Feet"
+  ],
+  "options": [
+   "4-8"
+  ]
+ },
+ {
+  "name": "Ice Cream Fryer Machine",
+  "section": "refrigeration",
+  "pages": [
+   32
+  ],
+  "images": [
+   "p033-x485.jpg"
+  ],
+  "variants": [
+   "Ice Cream Fryer Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Blast Chiller",
+  "section": "refrigeration",
+  "pages": [
+   32
+  ],
+  "images": [
+   "p033-x486.jpg"
+  ],
+  "variants": [
+   "Blast Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Cake Chiller",
+  "section": "refrigeration",
+  "pages": [
+   32
+  ],
+  "images": [
+   "p033-x487.jpg"
+  ],
+  "variants": [
+   "Cake Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Chillers",
+  "section": "refrigeration",
+  "pages": [
+   33,
+   39
+  ],
+  "images": [
+   "p034-x497.jpg",
+   "p040-x579.jpg"
+  ],
+  "variants": [
+   "Chiller (3 Doors)",
+   "Chillers"
+  ],
+  "options": [
+   "3 Doors"
+  ]
+ },
+ {
+  "name": "6 Door Fridge/Freezer",
+  "section": "refrigeration",
+  "pages": [
+   33
+  ],
+  "images": [
+   "p034-x499.jpg"
+  ],
+  "variants": [
+   "6 Door Fridge/Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Table Top Cake Chiller",
+  "section": "refrigeration",
+  "pages": [
+   33
+  ],
+  "images": [
+   "p034-x500.jpg"
+  ],
+  "variants": [
+   "Table Top Cake Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Open Display Curtain Chillers",
+  "section": "refrigeration",
+  "pages": [
+   34
+  ],
+  "images": [
+   "p035-x509.jpg",
+   "p035-x510.jpg"
+  ],
+  "variants": [
+   "Open Display Curtain Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "6 Doors Display Fridge/ Freezer (1-6) Doors",
+  "section": "refrigeration",
+  "pages": [
+   34
+  ],
+  "images": [
+   "p035-x511.jpg"
+  ],
+  "variants": [
+   "6 Doors Display Fridge/ Freezer (1-6) Doors"
+  ],
+  "options": [
+   "1-6"
+  ]
+ },
+ {
+  "name": "2 Doors Fridge/Freezer (1-6) Doors",
+  "section": "refrigeration",
+  "pages": [
+   34
+  ],
+  "images": [
+   "p035-x512.jpg"
+  ],
+  "variants": [
+   "2 Doors Fridge/Freezer (1-6) Doors"
+  ],
+  "options": [
+   "1-6"
+  ]
+ },
+ {
+  "name": "Fridge/Freezer (1-6) Doors",
+  "section": "refrigeration",
+  "pages": [
+   34,
+   35,
+   36,
+   39
+  ],
+  "images": [
+   "p035-x513.jpg",
+   "p036-x527.jpg",
+   "p037-x542.jpg",
+   "p040-x582.jpg"
+  ],
+  "variants": [
+   "Fridge/Freezer (1-6) Doors",
+   "Fridge Freezer (1-6) Doors"
+  ],
+  "options": [
+   "1-6"
+  ]
+ },
+ {
+  "name": "Standing Ice Cream Machine",
+  "section": "refrigeration",
+  "pages": [
+   34
+  ],
+  "images": [
+   "p035-x514.jpg"
+  ],
+  "variants": [
+   "Standing Ice Cream Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Open Curtain Chillers",
+  "section": "refrigeration",
+  "pages": [
+   34,
+   35
+  ],
+  "images": [
+   "p035-x515.jpg",
+   "p036-x525.jpg"
+  ],
+  "variants": [
+   "Open Curtain Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Open Curtain Chiller and Island Freezer",
+  "section": "refrigeration",
+  "pages": [
+   35
+  ],
+  "images": [
+   "p036-x524.jpg"
+  ],
+  "variants": [
+   "Open Curtain Chiller and Island Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Stainless Body Wine Chiller (1-3) Doors",
+  "section": "refrigeration",
+  "pages": [
+   35,
+   37
+  ],
+  "images": [
+   "p036-x526.jpg",
+   "p038-x554.jpg"
+  ],
+  "variants": [
+   "Stainless Body Wine Chiller (1-3) Doors"
+  ],
+  "options": [
+   "1-3"
+  ]
+ },
+ {
+  "name": "Freezer",
+  "section": "refrigeration",
+  "pages": [
+   35
+  ],
+  "images": [
+   "p036-x528.jpg"
+  ],
+  "variants": [
+   "Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Standing Display Chiller (1-3) Doors",
+  "section": "refrigeration",
+  "pages": [
+   35,
+   36
+  ],
+  "images": [
+   "p036-x529.jpg",
+   "p037-x538.jpg"
+  ],
+  "variants": [
+   "Standing Display Chillers (1-3) Doors",
+   "Standing Display Chiller (1-3) Doors"
+  ],
+  "options": [
+   "1-3"
+  ]
+ },
+ {
+  "name": "Under Counter Glass Door Fridge/Freezer (1-3) Doors",
+  "section": "refrigeration",
+  "pages": [
+   36
+  ],
+  "images": [
+   "p037-x539.jpg"
+  ],
+  "variants": [
+   "Under Counter Glass Door Fridge/Freezer (1-3) Doors"
+  ],
+  "options": [
+   "1-3"
+  ]
+ },
+ {
+  "name": "Glass Display Fridge/ Freezer (1-6) Doors",
+  "section": "refrigeration",
+  "pages": [
+   36
+  ],
+  "images": [
+   "p037-x540.jpg"
+  ],
+  "variants": [
+   "Glass Display Fridge/ Freezer (1-6) Doors"
+  ],
+  "options": [
+   "1-6"
+  ]
+ },
+ {
+  "name": "Ice Cream Machine (Standing)",
+  "section": "refrigeration",
+  "pages": [
+   36,
+   37
+  ],
+  "images": [
+   "p037-x541.jpg",
+   "p038-x557.jpg"
+  ],
+  "variants": [
+   "Ice Cream Machine (Table Top)",
+   "Ice Cream Machine (Standing)"
+  ],
+  "options": [
+   "Table Top",
+   "Standing"
+  ]
+ },
+ {
+  "name": "Batch/Hard Ice Cream Machine",
+  "section": "refrigeration",
+  "pages": [
+   36
+  ],
+  "images": [
+   "p037-x543.jpg"
+  ],
+  "variants": [
+   "Batch/Hard Ice Cream Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Black Painted Wine Chiller (1-3) Doors",
+  "section": "refrigeration",
+  "pages": [
+   37
+  ],
+  "images": [
+   "p038-x552.jpg",
+   "p038-x553.jpg"
+  ],
+  "variants": [
+   "Black Painted Wine Chiller (1-3) Doors"
+  ],
+  "options": [
+   "1-3"
+  ]
+ },
+ {
+  "name": "Display Chiller (1-6) Doors",
+  "section": "refrigeration",
+  "pages": [
+   37
+  ],
+  "images": [
+   "p038-x555.jpg",
+   "p038-x556.jpg"
+  ],
+  "variants": [
+   "Display Chiller (1-6) Doors"
+  ],
+  "options": [
+   "1-6"
+  ]
+ },
+ {
+  "name": "Islander Freezer",
+  "section": "refrigeration",
+  "pages": [
+   38
+  ],
+  "images": [
+   "p039-x566.jpg",
+   "p039-x567.jpg"
+  ],
+  "variants": [
+   "Islander Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cream Fryer",
+  "section": "refrigeration",
+  "pages": [
+   38
+  ],
+  "images": [
+   "p039-x568.jpg"
+  ],
+  "variants": [
+   "Ice Cream Fryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Doors Chillers",
+  "section": "refrigeration",
+  "pages": [
+   38
+  ],
+  "images": [
+   "p039-x569.jpg"
+  ],
+  "variants": [
+   "Single Doors Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "2 Door Fridge/Freezer",
+  "section": "refrigeration",
+  "pages": [
+   38
+  ],
+  "images": [
+   "p039-x570.jpg"
+  ],
+  "variants": [
+   "2 Door Fridge/Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "3 Door Fridge",
+  "section": "refrigeration",
+  "pages": [
+   39
+  ],
+  "images": [
+   "p040-x580.jpg"
+  ],
+  "variants": [
+   "3 Door Fridge"
+  ],
+  "options": []
+ },
+ {
+  "name": "Popsicle Machine",
+  "section": "refrigeration",
+  "pages": [
+   39
+  ],
+  "images": [
+   "p040-x581.jpg"
+  ],
+  "variants": [
+   "Popsicle Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Flakes Machine",
+  "section": "refrigeration",
+  "pages": [
+   39
+  ],
+  "images": [
+   "p040-x583.jpg"
+  ],
+  "variants": [
+   "Ice Flakes Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Kitchen Hood (3-6) Feet",
+  "section": "kitchen-furniture",
+  "pages": [
+   40
+  ],
+  "images": [
+   "p041-x592.jpg",
+   "p041-x593.jpg"
+  ],
+  "variants": [
+   "Kitchen Hood (3-6) Feet"
+  ],
+  "options": [
+   "3-6"
+  ]
+ },
+ {
+  "name": "Kitchen Hood",
+  "section": "kitchen-furniture",
+  "pages": [
+   40
+  ],
+  "images": [
+   "p041-x594.jpg"
+  ],
+  "variants": [
+   "Kitchen Hood"
+  ],
+  "options": []
+ },
+ {
+  "name": "Extractor Fan",
+  "section": "kitchen-furniture",
+  "pages": [
+   40
+  ],
+  "images": [
+   "p041-x595.jpg"
+  ],
+  "variants": [
+   "Extractor Fan"
+  ],
+  "options": []
+ },
+ {
+  "name": "2 Bowl Sink with Side",
+  "section": "kitchen-furniture",
+  "pages": [
+   40
+  ],
+  "images": [
+   "p041-x596.jpg"
+  ],
+  "variants": [
+   "2 Bowl Sink with Side"
+  ],
+  "options": []
+ },
+ {
+  "name": "3 Bowl Sink",
+  "section": "kitchen-furniture",
+  "pages": [
+   41
+  ],
+  "images": [
+   "p042-x605.jpg"
+  ],
+  "variants": [
+   "3 Bowl Sink"
+  ],
+  "options": []
+ },
+ {
+  "name": "Stainless Kitchen Sink",
+  "section": "kitchen-furniture",
+  "pages": [
+   41
+  ],
+  "images": [
+   "p042-x606.jpg"
+  ],
+  "variants": [
+   "Stainless Kitchen Sink"
+  ],
+  "options": []
+ },
+ {
+  "name": "Worktable (3-6) Feet",
+  "section": "kitchen-furniture",
+  "pages": [
+   41,
+   44
+  ],
+  "images": [
+   "p042-x607.jpg",
+   "p045-x648.jpg"
+  ],
+  "variants": [
+   "Worktable (3-6) Feet"
+  ],
+  "options": [
+   "3-6"
+  ]
+ },
+ {
+  "name": "Trolley",
+  "section": "kitchen-furniture",
+  "pages": [
+   41
+  ],
+  "images": [
+   "p042-x608.jpg"
+  ],
+  "variants": [
+   "Trolley"
+  ],
+  "options": []
+ },
+ {
+  "name": "Worktable with Splash Back (3-6) Feet",
+  "section": "kitchen-furniture",
+  "pages": [
+   42
+  ],
+  "images": [
+   "p043-x617.jpg",
+   "p043-x622.jpg"
+  ],
+  "variants": [
+   "Worktable with Splash Back (3-6) Feet"
+  ],
+  "options": [
+   "3-6"
+  ]
+ },
+ {
+  "name": "Bread Cooking Rack",
+  "section": "kitchen-furniture",
+  "pages": [
+   42
+  ],
+  "images": [
+   "p043-x618.jpg"
+  ],
+  "variants": [
+   "Bread Cooking Rack"
+  ],
+  "options": []
+ },
+ {
+  "name": "Worktable with 2 Step/Layer",
+  "section": "kitchen-furniture",
+  "pages": [
+   42,
+   44,
+   43
+  ],
+  "images": [
+   "p043-x619.jpg",
+   "p045-x650.jpg",
+   "p044-x633.jpg"
+  ],
+  "variants": [
+   "Worktable with 2 Step/Layer",
+   "Worktable with 2 Step/Layers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Wire Chrome Shelf (3-6) Feet",
+  "section": "kitchen-furniture",
+  "pages": [
+   42
+  ],
+  "images": [
+   "p043-x620.jpg",
+   "p043-x621.jpg"
+  ],
+  "variants": [
+   "Wire Chrome Shelf (3-6) Feet"
+  ],
+  "options": [
+   "3-6"
+  ]
+ },
+ {
+  "name": "Stainless Kitchen Wall Shelves (3-6) Feet",
+  "section": "kitchen-furniture",
+  "pages": [
+   42
+  ],
+  "images": [
+   "p043-x623.jpg"
+  ],
+  "variants": [
+   "Stainless Kitchen Wall Shelves (3-6) Feet"
+  ],
+  "options": [
+   "3-6"
+  ]
+ },
+ {
+  "name": "Bakers Rack",
+  "section": "kitchen-furniture",
+  "pages": [
+   42
+  ],
+  "images": [
+   "p043-x624.jpg"
+  ],
+  "variants": [
+   "Bakers Rack"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Bowl Sink with Side",
+  "section": "kitchen-furniture",
+  "pages": [
+   43,
+   44
+  ],
+  "images": [
+   "p044-x634.jpg",
+   "p045-x649.jpg"
+  ],
+  "variants": [
+   "Single Bowl Sink with Side"
+  ],
+  "options": []
+ },
+ {
+  "name": "Double Bowl Sink with Side",
+  "section": "kitchen-furniture",
+  "pages": [
+   43
+  ],
+  "images": [
+   "p044-x635.jpg"
+  ],
+  "variants": [
+   "Double Bowl Sink with Side"
+  ],
+  "options": []
+ },
+ {
+  "name": "3 Step/Layer Trolley",
+  "section": "kitchen-furniture",
+  "pages": [
+   43
+  ],
+  "images": [
+   "p044-x636.jpg"
+  ],
+  "variants": [
+   "3 Step/Layer Trolley"
+  ],
+  "options": []
+ },
+ {
+  "name": "Rack Shelf (4-6) Feet",
+  "section": "kitchen-furniture",
+  "pages": [
+   43
+  ],
+  "images": [
+   "p044-x637.jpg"
+  ],
+  "variants": [
+   "Rack Shelf (4-6) Feet"
+  ],
+  "options": [
+   "4-6"
+  ]
+ },
+ {
+  "name": "Double Bowl Sink",
+  "section": "kitchen-furniture",
+  "pages": [
+   43
+  ],
+  "images": [
+   "p044-x638.jpg"
+  ],
+  "variants": [
+   "Double Bowl Sink"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Bowl Sink",
+  "section": "kitchen-furniture",
+  "pages": [
+   44
+  ],
+  "images": [
+   "p045-x647.jpg"
+  ],
+  "variants": [
+   "Single Bowl Sink"
+  ],
+  "options": []
+ },
+ {
+  "name": "Kitchen Hood Extractor",
+  "section": "kitchen-furniture",
+  "pages": [
+   44
+  ],
+  "images": [
+   "p045-x651.jpg"
+  ],
+  "variants": [
+   "Kitchen Hood Extractor"
+  ],
+  "options": []
+ },
+ {
+  "name": "Plate Rack (3-6) Feet",
+  "section": "kitchen-furniture",
+  "pages": [
+   44
+  ],
+  "images": [
+   "p045-x652.jpg"
+  ],
+  "variants": [
+   "Plate Rack (3-6) Feet"
+  ],
+  "options": [
+   "3-6"
+  ]
+ },
+ {
+  "name": "Single Side Gondola Shelf",
+  "section": "supermarket-equipment",
+  "pages": [
+   45,
+   47
+  ],
+  "images": [
+   "p046-x661.jpg",
+   "p048-x690.jpg"
+  ],
+  "variants": [
+   "Single Side Gondola Shelf"
+  ],
+  "options": []
+ },
+ {
+  "name": "Supermarket Shelves Counters Baskets",
+  "section": "supermarket-equipment",
+  "pages": [
+   45
+  ],
+  "images": [
+   "p046-x662.jpg"
+  ],
+  "variants": [
+   "Supermarket Shelves Counters Baskets"
+  ],
+  "options": []
+ },
+ {
+  "name": "Double Side Gondola Shelf",
+  "section": "supermarket-equipment",
+  "pages": [
+   45
+  ],
+  "images": [
+   "p046-x663.jpg"
+  ],
+  "variants": [
+   "Double Side Gondola Shelf"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Side Gondola Shelves",
+  "section": "supermarket-equipment",
+  "pages": [
+   45,
+   46,
+   48
+  ],
+  "images": [
+   "p046-x664.jpg",
+   "p046-x665.jpg",
+   "p047-x675.jpg",
+   "p047-x680.jpg"
+  ],
+  "variants": [
+   "Single Side Gondola Shelves",
+   "Single Side Gondola Shelves (Multiple Colors)",
+   "Single Side Gondola Shelves (White) Color",
+   "Single Side Gondola Shelves (Wooden) Color",
+   "Single Side Gondola Shelves (Black) Color"
+  ],
+  "options": [
+   "White",
+   "Wooden",
+   "Black"
+  ]
+ },
+ {
+  "name": "Check Out Table Counter",
+  "section": "supermarket-equipment",
+  "pages": [
+   45,
+   46
+  ],
+  "images": [
+   "p046-x666.jpg",
+   "p047-x679.jpg"
+  ],
+  "variants": [
+   "Check Out Table Counter"
+  ],
+  "options": []
+ },
+ {
+  "name": "Shopping Basket",
+  "section": "supermarket-equipment",
+  "pages": [
+   46,
+   48,
+   49
+  ],
+  "images": [
+   "p047-x676.jpg",
+   "p047-x678.jpg",
+   "p049-x711.jpg",
+   "p050-x721.jpg"
+  ],
+  "variants": [
+   "Shopping Basket",
+   "Shopping Basket (Multiple Colors)",
+   "Shopping Baskets"
+  ],
+  "options": []
+ },
+ {
+  "name": "Supermarket Trolley",
+  "section": "supermarket-equipment",
+  "pages": [
+   46,
+   50
+  ],
+  "images": [
+   "p047-x677.jpg",
+   "p051-x737.jpg"
+  ],
+  "variants": [
+   "Supermarket Trolley"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Door Display Chiller",
+  "section": "supermarket-equipment",
+  "pages": [
+   47,
+   53
+  ],
+  "images": [
+   "p048-x689.jpg",
+   "p054-x775.jpg",
+   "p054-x777.jpg"
+  ],
+  "variants": [
+   "Single Door Display Chiller",
+   "Single Door Display Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Gondola Shelves",
+  "section": "supermarket-equipment",
+  "pages": [
+   47,
+   50
+  ],
+  "images": [
+   "p048-x691.jpg",
+   "p051-x734.jpg"
+  ],
+  "variants": [
+   "Gondola Shelves"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ice Cream Display Freezer",
+  "section": "supermarket-equipment",
+  "pages": [
+   47
+  ],
+  "images": [
+   "p048-x692.jpg"
+  ],
+  "variants": [
+   "Ice Cream Display Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Open Curtain Display Chiller",
+  "section": "supermarket-equipment",
+  "pages": [
+   47,
+   51,
+   52
+  ],
+  "images": [
+   "p048-x693.jpg",
+   "p052-x751.jpg",
+   "p053-x762.jpg"
+  ],
+  "variants": [
+   "Open Curtain Display Chiller",
+   "Open Curtain Display Chillers",
+   "Open/Curtain Display Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Display Chiller (1-3) Door",
+  "section": "supermarket-equipment",
+  "pages": [
+   47,
+   48,
+   53
+  ],
+  "images": [
+   "p048-x695.jpg",
+   "p049-x708.jpg",
+   "p049-x709.jpg",
+   "p054-x776.jpg"
+  ],
+  "variants": [
+   "Display Chiller (1-3) Door",
+   "Display Chiller (1-3) Doors",
+   "Display Chillers (1-3) Doors"
+  ],
+  "options": [
+   "1-3"
+  ]
+ },
+ {
+  "name": "Islander Freezer",
+  "section": "supermarket-equipment",
+  "pages": [
+   47
+  ],
+  "images": [
+   "p048-x694.jpg"
+  ],
+  "variants": [
+   "Islander Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Single Side Gondola Basket Shelf (Grey) Color",
+  "section": "supermarket-equipment",
+  "pages": [
+   48
+  ],
+  "images": [
+   "p049-x706.jpg"
+  ],
+  "variants": [
+   "Single Side Gondola Basket Shelf (Grey) Color"
+  ],
+  "options": [
+   "Grey"
+  ]
+ },
+ {
+  "name": "Open Curtain Chillers",
+  "section": "supermarket-equipment",
+  "pages": [
+   48
+  ],
+  "images": [
+   "p049-x710.jpg"
+  ],
+  "variants": [
+   "Open Curtain Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Display Chillers",
+  "section": "supermarket-equipment",
+  "pages": [
+   49,
+   53,
+   54
+  ],
+  "images": [
+   "p050-x720.jpg",
+   "p054-x778.jpg",
+   "p054-x779.jpg",
+   "p055-x788.jpg"
+  ],
+  "variants": [
+   "Display Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Supermarket Trolley Basket",
+  "section": "supermarket-equipment",
+  "pages": [
+   49
+  ],
+  "images": [
+   "p050-x722.jpg"
+  ],
+  "variants": [
+   "Supermarket Trolley Basket"
+  ],
+  "options": []
+ },
+ {
+  "name": "Heavy Duty Shelf/Rock",
+  "section": "supermarket-equipment",
+  "pages": [
+   49
+  ],
+  "images": [
+   "p050-x723.jpg"
+  ],
+  "variants": [
+   "Heavy Duty Shelf/Rock"
+  ],
+  "options": []
+ },
+ {
+  "name": "Supermarket Setup",
+  "section": "supermarket-equipment",
+  "pages": [
+   49,
+   50,
+   52,
+   54
+  ],
+  "images": [
+   "p050-x724.jpg",
+   "p051-x740.jpg",
+   "p053-x763.jpg",
+   "p055-x789.jpg"
+  ],
+  "variants": [
+   "Supermarket Setup"
+  ],
+  "options": []
+ },
+ {
+  "name": "Shelves on Display",
+  "section": "supermarket-equipment",
+  "pages": [
+   49
+  ],
+  "images": [
+   "p050-x725.jpg"
+  ],
+  "variants": [
+   "Shelves on Display"
+  ],
+  "options": []
+ },
+ {
+  "name": "Gondola Shelves Setup",
+  "section": "supermarket-equipment",
+  "pages": [
+   50
+  ],
+  "images": [
+   "p051-x735.jpg"
+  ],
+  "variants": [
+   "Gondola Shelves Setup"
+  ],
+  "options": []
+ },
+ {
+  "name": "Gondola Shelves Setup in Progress",
+  "section": "supermarket-equipment",
+  "pages": [
+   50
+  ],
+  "images": [
+   "p051-x736.jpg"
+  ],
+  "variants": [
+   "Gondola Shelves Setup in Progress"
+  ],
+  "options": []
+ },
+ {
+  "name": "Multipurpose Basket",
+  "section": "supermarket-equipment",
+  "pages": [
+   50
+  ],
+  "images": [
+   "p051-x738.jpg"
+  ],
+  "variants": [
+   "Multipurpose Basket"
+  ],
+  "options": []
+ },
+ {
+  "name": "Island Freezer",
+  "section": "supermarket-equipment",
+  "pages": [
+   50,
+   51,
+   54
+  ],
+  "images": [
+   "p051-x739.jpg",
+   "p052-x749.jpg",
+   "p055-x790.jpg"
+  ],
+  "variants": [
+   "Island Freezer",
+   "Island Freezers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Chiller",
+  "section": "supermarket-equipment",
+  "pages": [
+   51,
+   52
+  ],
+  "images": [
+   "p052-x750.jpg",
+   "p053-x761.jpg"
+  ],
+  "variants": [
+   "Chillers",
+   "Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Meat Chillers",
+  "section": "supermarket-equipment",
+  "pages": [
+   51
+  ],
+  "images": [
+   "p052-x752.jpg"
+  ],
+  "variants": [
+   "Meat Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Curtain Display Chiller",
+  "section": "supermarket-equipment",
+  "pages": [
+   52
+  ],
+  "images": [
+   "p053-x764.jpg"
+  ],
+  "variants": [
+   "Curtain Display Chiller"
+  ],
+  "options": []
+ },
+ {
+  "name": "Freezer",
+  "section": "supermarket-equipment",
+  "pages": [
+   52
+  ],
+  "images": [
+   "p053-x765.jpg"
+  ],
+  "variants": [
+   "Freezer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Double Door Display Chillers",
+  "section": "supermarket-equipment",
+  "pages": [
+   52
+  ],
+  "images": [
+   "p053-x766.jpg"
+  ],
+  "variants": [
+   "Double Door Display Chillers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Water Chiller (1-20) Horse Power",
+  "section": "water-production-packaging",
+  "pages": [
+   55
+  ],
+  "images": [
+   "p056-x800.jpg",
+   "p056-x801.jpg",
+   "p056-x802.jpg"
+  ],
+  "variants": [
+   "Water Chiller (1-20) Horse Power"
+  ],
+  "options": [
+   "1-20"
+  ]
+ },
+ {
+  "name": "Sachet Water Factory Setup",
+  "section": "water-production-packaging",
+  "pages": [
+   55
+  ],
+  "images": [
+   "p056-x803.jpg"
+  ],
+  "variants": [
+   "Sachet Water Factory Setup"
+  ],
+  "options": []
+ },
+ {
+  "name": "Mono Block 8-8-4",
+  "section": "water-production-packaging",
+  "pages": [
+   55
+  ],
+  "images": [
+   "p056-x804.jpg"
+  ],
+  "variants": [
+   "Mono Block 8-8-4"
+  ],
+  "options": []
+ },
+ {
+  "name": "PET Blower",
+  "section": "water-production-packaging",
+  "pages": [
+   55
+  ],
+  "images": [
+   "p056-x805.jpg"
+  ],
+  "variants": [
+   "PET Blower"
+  ],
+  "options": []
+ },
+ {
+  "name": "Sachet Water Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   55
+  ],
+  "images": [
+   "p056-x806.jpg"
+  ],
+  "variants": [
+   "Sachet Water Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Filling Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   56,
+   59
+  ],
+  "images": [
+   "p057-x815.jpg",
+   "p060-x863.jpg"
+  ],
+  "variants": [
+   "Filling Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Air Compressor",
+  "section": "water-production-packaging",
+  "pages": [
+   56
+  ],
+  "images": [
+   "p057-x816.jpg"
+  ],
+  "variants": [
+   "Air Compressor"
+  ],
+  "options": []
+ },
+ {
+  "name": "PET Blowing Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   56,
+   57
+  ],
+  "images": [
+   "p057-x818.jpg",
+   "p058-x829.jpg",
+   "p058-x830.jpg"
+  ],
+  "variants": [
+   "PET Blowing Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "PET Blowing System",
+  "section": "water-production-packaging",
+  "pages": [
+   56
+  ],
+  "images": [
+   "p057-x819.jpg"
+  ],
+  "variants": [
+   "PET Blowing System"
+  ],
+  "options": []
+ },
+ {
+  "name": "PET Bottle Mould",
+  "section": "water-production-packaging",
+  "pages": [
+   56
+  ],
+  "images": [
+   "p057-x820.jpg"
+  ],
+  "variants": [
+   "PET Bottle Mould"
+  ],
+  "options": []
+ },
+ {
+  "name": "Shrink Wrapper",
+  "section": "water-production-packaging",
+  "pages": [
+   57,
+   62
+  ],
+  "images": [
+   "p058-x831.jpg",
+   "p058-x834.jpg",
+   "p063-x903.jpg"
+  ],
+  "variants": [
+   "Shrink Wrapper"
+  ],
+  "options": []
+ },
+ {
+  "name": "Packaged Bottle Water",
+  "section": "water-production-packaging",
+  "pages": [
+   57
+  ],
+  "images": [
+   "p058-x832.jpg"
+  ],
+  "variants": [
+   "Packaged Bottle Water"
+  ],
+  "options": []
+ },
+ {
+  "name": "Reverse Osmosis Treatment",
+  "section": "water-production-packaging",
+  "pages": [
+   57
+  ],
+  "images": [
+   "p058-x833.jpg"
+  ],
+  "variants": [
+   "Reverse Osmosis Treatment"
+  ],
+  "options": []
+ },
+ {
+  "name": "Stainless Treatment Tank",
+  "section": "water-production-packaging",
+  "pages": [
+   57
+  ],
+  "images": [
+   "p058-x835.jpg"
+  ],
+  "variants": [
+   "Stainless Treatment Tank"
+  ],
+  "options": []
+ },
+ {
+  "name": "Automatic PET Blower Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   58
+  ],
+  "images": [
+   "p059-x844.jpg"
+  ],
+  "variants": [
+   "Automatic PET Blower Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bottle and Sachet Water Setup",
+  "section": "water-production-packaging",
+  "pages": [
+   58
+  ],
+  "images": [
+   "p059-x845.jpg"
+  ],
+  "variants": [
+   "Bottle and Sachet Water Setup"
+  ],
+  "options": []
+ },
+ {
+  "name": "Date Coding Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   58
+  ],
+  "images": [
+   "p059-x846.jpg"
+  ],
+  "variants": [
+   "Date Coding Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ink Jet Printer",
+  "section": "water-production-packaging",
+  "pages": [
+   58
+  ],
+  "images": [
+   "p059-x847.jpg"
+  ],
+  "variants": [
+   "Ink Jet Printer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bottle Sealing Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   58
+  ],
+  "images": [
+   "p059-x848.jpg"
+  ],
+  "variants": [
+   "Bottle Sealing Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Liquid Filler",
+  "section": "water-production-packaging",
+  "pages": [
+   59
+  ],
+  "images": [
+   "p060-x857.jpg"
+  ],
+  "variants": [
+   "Liquid Filler"
+  ],
+  "options": []
+ },
+ {
+  "name": "Scale",
+  "section": "water-production-packaging",
+  "pages": [
+   59
+  ],
+  "images": [
+   "p060-x858.jpg",
+   "p060-x859.jpg"
+  ],
+  "variants": [
+   "Scale"
+  ],
+  "options": []
+ },
+ {
+  "name": "Cargo/Luggage Nylon Wrapping Sealer",
+  "section": "water-production-packaging",
+  "pages": [
+   59
+  ],
+  "images": [
+   "p060-x860.jpg"
+  ],
+  "variants": [
+   "Cargo/Luggage Nylon Wrapping Sealer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Pedal Sealing Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   59,
+   62
+  ],
+  "images": [
+   "p060-x861.jpg",
+   "p063-x901.jpg"
+  ],
+  "variants": [
+   "Pedal Sealing Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Cup Sealing Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   59
+  ],
+  "images": [
+   "p060-x862.jpg"
+  ],
+  "variants": [
+   "Cup Sealing Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Packaging Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   60
+  ],
+  "images": [
+   "p061-x872.jpg",
+   "p061-x874.jpg"
+  ],
+  "variants": [
+   "Packaging Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Powder/Granular Packaging Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   60
+  ],
+  "images": [
+   "p061-x873.jpg"
+  ],
+  "variants": [
+   "Powder/Granular Packaging Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Vacuum Sealer",
+  "section": "water-production-packaging",
+  "pages": [
+   60,
+   61
+  ],
+  "images": [
+   "p061-x875.jpg",
+   "p062-x889.jpg"
+  ],
+  "variants": [
+   "Vacuum Sealer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bread Nylon Sealer",
+  "section": "water-production-packaging",
+  "pages": [
+   60
+  ],
+  "images": [
+   "p061-x876.jpg"
+  ],
+  "variants": [
+   "Bread Nylon Sealer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Nitrogen Air Sealing Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   60
+  ],
+  "images": [
+   "p061-x877.jpg"
+  ],
+  "variants": [
+   "Nitrogen Air Sealing Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Continuous Band Sealer",
+  "section": "water-production-packaging",
+  "pages": [
+   60,
+   61
+  ],
+  "images": [
+   "p061-x878.jpg",
+   "p062-x890.jpg"
+  ],
+  "variants": [
+   "Continuous Band Sealer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Food Wrapper Sealer",
+  "section": "water-production-packaging",
+  "pages": [
+   61
+  ],
+  "images": [
+   "p062-x887.jpg"
+  ],
+  "variants": [
+   "Food Wrapper Sealer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Vertical Packaging Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   61
+  ],
+  "images": [
+   "p062-x888.jpg"
+  ],
+  "variants": [
+   "Vertical Packaging Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Sealing Machines",
+  "section": "water-production-packaging",
+  "pages": [
+   61
+  ],
+  "images": [
+   "p062-x891.jpg"
+  ],
+  "variants": [
+   "Sealing Machines"
+  ],
+  "options": []
+ },
+ {
+  "name": "Granular/Powder Packaging Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   62
+  ],
+  "images": [
+   "p063-x900.jpg"
+  ],
+  "variants": [
+   "Granular/Powder Packaging Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Luggage Nylon Sealing Machine",
+  "section": "water-production-packaging",
+  "pages": [
+   62
+  ],
+  "images": [
+   "p063-x902.jpg"
+  ],
+  "variants": [
+   "Luggage Nylon Sealing Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Impulse Sealer",
+  "section": "water-production-packaging",
+  "pages": [
+   62
+  ],
+  "images": [
+   "p063-x904.jpg"
+  ],
+  "variants": [
+   "Impulse Sealer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Washing & Drying Machine",
+  "section": "laundry-equipment",
+  "pages": [
+   63
+  ],
+  "images": [
+   "p064-x913.jpg",
+   "p064-x914.jpg",
+   "p064-x915.jpg"
+  ],
+  "variants": [
+   "Washing & Drying Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Combined Washing & Drying Machine",
+  "section": "laundry-equipment",
+  "pages": [
+   63
+  ],
+  "images": [
+   "p064-x916.jpg"
+  ],
+  "variants": [
+   "Combined Washing & Drying Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ironing Machine (Different Types Available)",
+  "section": "laundry-equipment",
+  "pages": [
+   63
+  ],
+  "images": [
+   "p064-x917.jpg"
+  ],
+  "variants": [
+   "Ironing Machine (Different Types Available)"
+  ],
+  "options": [
+   "Different Types Available"
+  ]
+ },
+ {
+  "name": "Washing Machine",
+  "section": "laundry-equipment",
+  "pages": [
+   63,
+   64
+  ],
+  "images": [
+   "p064-x918.jpg",
+   "p065-x928.jpg",
+   "p065-x930.jpg"
+  ],
+  "variants": [
+   "Washing Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Dryer",
+  "section": "laundry-equipment",
+  "pages": [
+   64
+  ],
+  "images": [
+   "p065-x927.jpg",
+   "p065-x931.jpg"
+  ],
+  "variants": [
+   "Dryer"
+  ],
+  "options": []
+ },
+ {
+  "name": "Washing and Drying Machine",
+  "section": "laundry-equipment",
+  "pages": [
+   64
+  ],
+  "images": [
+   "p065-x929.jpg"
+  ],
+  "variants": [
+   "Washing and Drying Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "4 Acoustic Line Array Speaker",
+  "section": "sound-lighting-stage",
+  "pages": [
+   65,
+   67
+  ],
+  "images": [
+   "p066-x940.jpg",
+   "p066-x942.jpg",
+   "p068-x973.jpg"
+  ],
+  "variants": [
+   "4 Acoustic Line Array Speakers",
+   "4 Acoustic Line Array Speaker"
+  ],
+  "options": []
+ },
+ {
+  "name": "Stage",
+  "section": "sound-lighting-stage",
+  "pages": [
+   65,
+   66
+  ],
+  "images": [
+   "p066-x941.jpg",
+   "p067-x959.jpg",
+   "p067-x960.jpg"
+  ],
+  "variants": [
+   "Stage"
+  ],
+  "options": []
+ },
+ {
+  "name": "4 Acoustic Full Range Speaker with Stage",
+  "section": "sound-lighting-stage",
+  "pages": [
+   65
+  ],
+  "images": [
+   "p066-x943.jpg"
+  ],
+  "variants": [
+   "4 Acoustic Full Range Speaker with Stage"
+  ],
+  "options": []
+ },
+ {
+  "name": "Truss and Lighting",
+  "section": "sound-lighting-stage",
+  "pages": [
+   65
+  ],
+  "images": [
+   "p066-x944.jpg"
+  ],
+  "variants": [
+   "Truss and Lighting"
+  ],
+  "options": []
+ },
+ {
+  "name": "Full Stage/Truss with Canopy",
+  "section": "sound-lighting-stage",
+  "pages": [
+   65
+  ],
+  "images": [
+   "p066-x945.jpg"
+  ],
+  "variants": [
+   "Full Stage/Truss with Canopy"
+  ],
+  "options": []
+ },
+ {
+  "name": "COB Light",
+  "section": "sound-lighting-stage",
+  "pages": [
+   66
+  ],
+  "images": [
+   "p067-x954.jpg",
+   "p067-x957.jpg"
+  ],
+  "variants": [
+   "COB Light"
+  ],
+  "options": []
+ },
+ {
+  "name": "LED Parcan Light",
+  "section": "sound-lighting-stage",
+  "pages": [
+   66
+  ],
+  "images": [
+   "p067-x955.jpg"
+  ],
+  "variants": [
+   "LED Parcan Light"
+  ],
+  "options": []
+ },
+ {
+  "name": "COB Parcan",
+  "section": "sound-lighting-stage",
+  "pages": [
+   66
+  ],
+  "images": [
+   "p067-x956.jpg"
+  ],
+  "variants": [
+   "COB Parcan"
+  ],
+  "options": []
+ },
+ {
+  "name": "LED Fresnel",
+  "section": "sound-lighting-stage",
+  "pages": [
+   66
+  ],
+  "images": [
+   "p067-x958.jpg"
+  ],
+  "variants": [
+   "LED Fresnel"
+  ],
+  "options": []
+ },
+ {
+  "name": "Trussing with Light",
+  "section": "sound-lighting-stage",
+  "pages": [
+   67
+  ],
+  "images": [
+   "p068-x969.jpg"
+  ],
+  "variants": [
+   "Trussing with Light"
+  ],
+  "options": []
+ },
+ {
+  "name": "Trussing with Speaker",
+  "section": "sound-lighting-stage",
+  "pages": [
+   67
+  ],
+  "images": [
+   "p068-x970.jpg"
+  ],
+  "variants": [
+   "Trussing with Speaker"
+  ],
+  "options": []
+ },
+ {
+  "name": "Mobile Sound Setup for General Bitter Activation",
+  "section": "sound-lighting-stage",
+  "pages": [
+   67
+  ],
+  "images": [
+   "p068-x971.jpg",
+   "p068-x974.jpg"
+  ],
+  "variants": [
+   "Mobile Sound Setup for General Bitter Activation"
+  ],
+  "options": []
+ },
+ {
+  "name": "4 Acoustic Sound Speaker",
+  "section": "sound-lighting-stage",
+  "pages": [
+   67
+  ],
+  "images": [
+   "p068-x972.jpg"
+  ],
+  "variants": [
+   "4 Acoustic Sound Speaker"
+  ],
+  "options": []
+ },
+ {
+  "name": "Truss",
+  "section": "sound-lighting-stage",
+  "pages": [
+   67
+  ],
+  "images": [
+   "p068-x975.jpg"
+  ],
+  "variants": [
+   "Truss"
+  ],
+  "options": []
+ },
+ {
+  "name": "Base",
+  "section": "sound-lighting-stage",
+  "pages": [
+   68
+  ],
+  "images": [
+   "p069-x984.jpg"
+  ],
+  "variants": [
+   "Base"
+  ],
+  "options": []
+ },
+ {
+  "name": "Base Support",
+  "section": "sound-lighting-stage",
+  "pages": [
+   68
+  ],
+  "images": [
+   "p069-x985.jpg"
+  ],
+  "variants": [
+   "Base Support"
+  ],
+  "options": []
+ },
+ {
+  "name": "Sleeve Block",
+  "section": "sound-lighting-stage",
+  "pages": [
+   68
+  ],
+  "images": [
+   "p069-x986.jpg"
+  ],
+  "variants": [
+   "Sleeve Block"
+  ],
+  "options": []
+ },
+ {
+  "name": "Top Section",
+  "section": "sound-lighting-stage",
+  "pages": [
+   68
+  ],
+  "images": [
+   "p069-x987.jpg"
+  ],
+  "variants": [
+   "Top Section"
+  ],
+  "options": []
+ },
+ {
+  "name": "LED Baton/Sparklers",
+  "section": "sound-lighting-stage",
+  "pages": [
+   68
+  ],
+  "images": [
+   "p069-x988.jpg"
+  ],
+  "variants": [
+   "LED Baton/Sparklers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Champagne Gun",
+  "section": "sound-lighting-stage",
+  "pages": [
+   68,
+   69,
+   70
+  ],
+  "images": [
+   "p069-x989.jpg",
+   "p070-x1002.jpg",
+   "p070-x1004.jpg",
+   "p071-x1019.jpg"
+  ],
+  "variants": [
+   "Champagne Gun",
+   "Champagne Gun (Gold/Silver/Rose Gold) Colors"
+  ],
+  "options": [
+   "Gold/Silver/Rose Gold"
+  ]
+ },
+ {
+  "name": "Short LED Sparkler/Baton",
+  "section": "sound-lighting-stage",
+  "pages": [
+   68
+  ],
+  "images": [
+   "p069-x992.jpg"
+  ],
+  "variants": [
+   "Short LED Sparkler/Baton"
+  ],
+  "options": []
+ },
+ {
+  "name": "Laser Glasses",
+  "section": "sound-lighting-stage",
+  "pages": [
+   69
+  ],
+  "images": [
+   "p070-x1003.jpg"
+  ],
+  "variants": [
+   "Laser Glasses"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ace Carrier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   69,
+   71,
+   73
+  ],
+  "images": [
+   "p070-x1005.jpg",
+   "p072-x1037.jpg",
+   "p074-x1064.jpg",
+   "p074-x1065.jpg"
+  ],
+  "variants": [
+   "Ace Carrier",
+   "Ace Carriers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Glorifier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   69,
+   70,
+   71,
+   74
+  ],
+  "images": [
+   "p070-x1006.jpg",
+   "p070-x1009.jpg",
+   "p071-x1020.jpg",
+   "p072-x1035.jpg"
+  ],
+  "variants": [
+   "Glorifier",
+   "Glorifiers"
+  ],
+  "options": []
+ },
+ {
+  "name": "Table Light",
+  "section": "sound-lighting-stage",
+  "pages": [
+   69
+  ],
+  "images": [
+   "p070-x1007.jpg"
+  ],
+  "variants": [
+   "Table Light"
+  ],
+  "options": []
+ },
+ {
+  "name": "LED Champagne Basket",
+  "section": "sound-lighting-stage",
+  "pages": [
+   69
+  ],
+  "images": [
+   "p070-x1008.jpg"
+  ],
+  "variants": [
+   "LED Champagne Basket"
+  ],
+  "options": []
+ },
+ {
+  "name": "Mist Champagne Bucket",
+  "section": "sound-lighting-stage",
+  "pages": [
+   70
+  ],
+  "images": [
+   "p071-x1018.jpg"
+  ],
+  "variants": [
+   "Mist Champagne Bucket"
+  ],
+  "options": []
+ },
+ {
+  "name": "Champagne Bucket",
+  "section": "sound-lighting-stage",
+  "pages": [
+   70
+  ],
+  "images": [
+   "p071-x1021.jpg"
+  ],
+  "variants": [
+   "Champagne Bucket"
+  ],
+  "options": []
+ },
+ {
+  "name": "Long LED Sparkler/ Baton",
+  "section": "sound-lighting-stage",
+  "pages": [
+   70
+  ],
+  "images": [
+   "p071-x1022.jpg"
+  ],
+  "variants": [
+   "Long LED Sparkler/ Baton"
+  ],
+  "options": []
+ },
+ {
+  "name": "Champagne Casket",
+  "section": "sound-lighting-stage",
+  "pages": [
+   70,
+   71
+  ],
+  "images": [
+   "p071-x1023.jpg",
+   "p072-x1039.jpg"
+  ],
+  "variants": [
+   "Champagne Casket"
+  ],
+  "options": []
+ },
+ {
+  "name": "LED Sparklers/ Baton",
+  "section": "sound-lighting-stage",
+  "pages": [
+   71
+  ],
+  "images": [
+   "p072-x1033.jpg"
+  ],
+  "variants": [
+   "LED Sparklers/ Baton"
+  ],
+  "options": []
+ },
+ {
+  "name": "LED Mask",
+  "section": "sound-lighting-stage",
+  "pages": [
+   71
+  ],
+  "images": [
+   "p072-x1034.jpg"
+  ],
+  "variants": [
+   "LED Mask"
+  ],
+  "options": []
+ },
+ {
+  "name": "Azul Carrier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   71,
+   72,
+   74
+  ],
+  "images": [
+   "p072-x1036.jpg",
+   "p073-x1050.jpg",
+   "p075-x1079.jpg"
+  ],
+  "variants": [
+   "Azul Carrier"
+  ],
+  "options": []
+ },
+ {
+  "name": "Belaire",
+  "section": "sound-lighting-stage",
+  "pages": [
+   71
+  ],
+  "images": [
+   "p072-x1038.jpg"
+  ],
+  "variants": [
+   "Belaire"
+  ],
+  "options": []
+ },
+ {
+  "name": "Don Julio Carrier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   72
+  ],
+  "images": [
+   "p073-x1048.jpg",
+   "p073-x1049.jpg"
+  ],
+  "variants": [
+   "Don Julio Carrier"
+  ],
+  "options": []
+ },
+ {
+  "name": "Champagne/Ice Bucket",
+  "section": "sound-lighting-stage",
+  "pages": [
+   72,
+   73
+  ],
+  "images": [
+   "p073-x1051.jpg",
+   "p074-x1061.jpg",
+   "p073-x1052.jpg"
+  ],
+  "variants": [
+   "Champagne/ Ice Bucket",
+   "Champagne/Ice Bucket"
+  ],
+  "options": []
+ },
+ {
+  "name": "Moet Carrier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   73
+  ],
+  "images": [
+   "p074-x1062.jpg"
+  ],
+  "variants": [
+   "Moet Carrier"
+  ],
+  "options": []
+ },
+ {
+  "name": "Martell Carrier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   73
+  ],
+  "images": [
+   "p074-x1063.jpg"
+  ],
+  "variants": [
+   "Martell Carrier"
+  ],
+  "options": []
+ },
+ {
+  "name": "Smoke Machine",
+  "section": "sound-lighting-stage",
+  "pages": [
+   73
+  ],
+  "images": [
+   "p074-x1066.jpg",
+   "p074-x1067.jpg"
+  ],
+  "variants": [
+   "Smoke Machine"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ball Light",
+  "section": "sound-lighting-stage",
+  "pages": [
+   74
+  ],
+  "images": [
+   "p075-x1076.jpg"
+  ],
+  "variants": [
+   "Ball Light"
+  ],
+  "options": []
+ },
+ {
+  "name": "Spider Light",
+  "section": "sound-lighting-stage",
+  "pages": [
+   74
+  ],
+  "images": [
+   "p075-x1077.jpg"
+  ],
+  "variants": [
+   "Spider Light"
+  ],
+  "options": []
+ },
+ {
+  "name": "Bae Light",
+  "section": "sound-lighting-stage",
+  "pages": [
+   74
+  ],
+  "images": [
+   "p075-x1078.jpg"
+  ],
+  "variants": [
+   "Bae Light"
+  ],
+  "options": []
+ },
+ {
+  "name": "Outdoor Bar/Lounge Setup",
+  "section": "sound-lighting-stage",
+  "pages": [
+   74
+  ],
+  "images": [
+   "p075-x1081.jpg"
+  ],
+  "variants": [
+   "Outdoor Bar/Lounge Setup"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ballers Alert/Led Message Board",
+  "section": "sound-lighting-stage",
+  "pages": [
+   75
+  ],
+  "images": [
+   "p076-x1090.jpg",
+   "p076-x1095.jpg",
+   "p076-x1096.jpg"
+  ],
+  "variants": [
+   "Ballers Alert/Led Message Board"
+  ],
+  "options": []
+ },
+ {
+  "name": "Ballers Alert",
+  "section": "sound-lighting-stage",
+  "pages": [
+   75
+  ],
+  "images": [
+   "p076-x1091.jpg"
+  ],
+  "variants": [
+   "Ballers Alert"
+  ],
+  "options": []
+ },
+ {
+  "name": "Mobile Sound Setup with 4 Acoustic Speakers & Amplifier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   75
+  ],
+  "images": [
+   "p076-x1092.jpg"
+  ],
+  "variants": [
+   "Mobile Sound Setup with 4 Acoustic Speakers & Amplifier"
+  ],
+  "options": []
+ },
+ {
+  "name": "Amplifier Rack",
+  "section": "sound-lighting-stage",
+  "pages": [
+   75
+  ],
+  "images": [
+   "p076-x1093.jpg"
+  ],
+  "variants": [
+   "Amplifier Rack"
+  ],
+  "options": []
+ },
+ {
+  "name": "Dusse Cross Glorifier",
+  "section": "sound-lighting-stage",
+  "pages": [
+   75
+  ],
+  "images": [
+   "p076-x1094.jpg"
+  ],
+  "variants": [
+   "Dusse Cross Glorifier"
+  ],
+  "options": []
+ }
+]
