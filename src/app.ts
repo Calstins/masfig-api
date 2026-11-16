@@ -116,3 +116,13 @@ export function createApp() {
   app.use(onError)
   return app
 }
+
+/**
+ * Default export for hosts that look for a handler in app.js (Vercel's Express detection does this).
+ * The app is built on first request and reused afterwards.
+ */
+let shared: ReturnType<typeof createApp> | undefined
+export default function handler(req: express.Request, res: express.Response) {
+  shared ??= createApp()
+  return shared(req, res)
+}
