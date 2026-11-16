@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "node node_modules/prisma/build/index.js generate",
+  "buildCommand": "node node_modules/prisma/build/index.js generate && node node_modules/typescript/bin/tsc -p tsconfig.build.json",
   "rewrites": [{ "source": "/(.*)", "destination": "/api" }],
-  "functions": { "api/index.ts": { "maxDuration": 30 } }
+  "functions": { "api/index.js": { "maxDuration": 30, "includeFiles": "dist/**" } }
 }
