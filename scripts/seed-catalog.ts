@@ -6,7 +6,7 @@
  *
  * Creates, from the supplied PDF catalogue (scripts/seed/data/catalog-extracted.json + scripts/seed/photos/catalog):
  *   - 10 categories, ~326 products (quote only, no invented specs), one hero slide per category,
- *   - 15 comprehensive SEO guides (published as blog posts) + the 10 earlier guides, re-pointed to the new categories,
+ *   - 30 comprehensive SEO guides incl. 15 Nigeria/Lagos kitchen + supermarket guides (published as blog posts) + the 10 earlier guides, re-pointed to the new categories,
  *   - missing contact details from the catalogue, the light red/white theme, price display OFF (request a quote).
  * Everything stays editable in the admin. RESUMABLE: records are matched by slug, anything that already exists is left
  * untouched (so your admin edits are never overwritten), and only missing records / images / publishing are filled in.
@@ -23,6 +23,8 @@ import { CATEGORIES } from './seed/data/categories.js'
 import { buildProduct, type Extracted } from './seed/data/product-copy.js'
 import { SEO_A } from './seed/data/seo-pages-a.js'
 import { SEO_B } from './seed/data/seo-pages-b.js'
+import { SEO_NG_A } from './seed/data/seo-nigeria-a.js'
+import { SEO_NG_B } from './seed/data/seo-nigeria-b.js'
 import { POSTS_A } from './seed/data/posts-a.js'
 import { POSTS_B } from './seed/data/posts-b.js'
 import { makeCover } from './seed/covers.js'
@@ -252,7 +254,7 @@ async function main() {
   }
   log(`  posts     ${POSTS_A.length + POSTS_B.length} earlier guides updated`)
 
-  for (const p of [...SEO_A, ...SEO_B]) {
+  for (const p of [...SEO_A, ...SEO_B, ...SEO_NG_A, ...SEO_NG_B]) {
     try {
     const find = (rx: RegExp) => planned.find((x) => rx.test(x.it.display) && x.it.images.length)
     const cover = find(p.coverPick) ?? planned.find((x) => x.cat.slug === p.categorySlug && x.it.images.length)!
@@ -269,7 +271,7 @@ async function main() {
     if (row.status !== 'PUBLISHED') row = await call('POST', `/admin/posts/${row.id}/publish`)
     } catch (e: any) { fail(`seo page ${p.slug}`, e) }
   }
-  log(`  seo pages ${SEO_A.length + SEO_B.length} comprehensive guides published`)
+  log(`  seo pages ${SEO_A.length + SEO_B.length + SEO_NG_A.length + SEO_NG_B.length} comprehensive guides published`)
 
   if (failures.length) {
     console.log(`\n${failures.length} item(s) failed:\n - ${failures.join('\n - ')}`)

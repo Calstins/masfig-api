@@ -17,6 +17,7 @@
     "db:import-sqlite": "tsx scripts/import-sqlite.ts",
     "create-admin": "tsx scripts/create-admin.ts",
     "seed:catalog": "tsx scripts/seed-catalog.ts",
+    "seed:nigeria-seo": "tsx scripts/seed-nigeria-seo.ts",
     "preflight": "tsx scripts/preflight.ts"
   },
   "dependencies": {

@@ -47,8 +47,8 @@ export const CATEGORIES: SeedCategory[] = [
 Tell us what you bake, how much you want to produce each day, the space you have and whether you plan to run on gas or electricity. We will help you choose equipment that fits your output and your site, and you can add machines as the bakery grows.
 
 Browse the range below, search for a specific machine, or send a quote request and we will come back with availability and delivery details.`,
-    seoTitle: 'Bakery Equipment in Nigeria | Ovens, Mixers, Sheeters | MASFIG',
-    seoDescription: 'Rotary, deck and convection bakery ovens, spiral mixers, dough dividers, sheeters and slicers from MASFIG LTD, Lagos. Request a quote for your bakery.',
+    seoTitle: 'Bakery Equipment in Nigeria & Lagos | Ovens, Mixers',
+    seoDescription: 'Buy bakery equipment in Nigeria from Lagos: rotary, deck and convection ovens, spiral mixers, dividers, sheeters and slicers. Request a quote from MASFIG.',
     faqs: [
       { question: 'Which bakery machines should a new bakery buy first?', answer: 'Most new bakeries start with an oven, a mixer and a work table, then add a divider, moulder, proofing and slicing equipment as volume grows. Share your product list and daily output and we will suggest a sensible order of purchase.' },
       { question: 'Should I choose a deck oven or a rotary oven?', answer: 'Deck ovens suit smaller batches and a mix of products, while rotary ovens suit high-volume production of the same items. Our guide to choosing an oven explains the trade-offs; you can also ask us for advice based on your menu.' },
@@ -68,8 +68,8 @@ Browse the range below, search for a specific machine, or send a quote request a
 Some items are available as imported units and others as locally fabricated versions in different sizes. Tell us your menu, the number of covers you serve, your gas or power supply and your available floor space, and we will recommend what fits.
 
 Pick a range below or request a quote and we will confirm models, options and delivery.`,
-    seoTitle: 'Commercial Cooking Equipment Nigeria | Cookers & Fryers | MASFIG',
-    seoDescription: 'Commercial gas cookers, deep fryers, griddles, rotisseries and shawarma machines from MASFIG LTD, Lagos. Request a quote for your kitchen.',
+    seoTitle: 'Industrial Kitchen Equipment Nigeria & Lagos | MASFIG',
+    seoDescription: 'Industrial and commercial kitchen equipment in Nigeria: gas cookers, fryers, griddles, rotisseries and shawarma machines from Lagos. Request a quote.',
     faqs: [
       { question: 'Should I buy gas or electric cooking equipment?', answer: 'It depends on your fuel supply and power reliability. Many Nigerian kitchens prefer gas cookers and ovens because they keep working when grid power is unstable, while electric units suit sites with a dependable supply. Tell us your situation and we will advise.' },
       { question: 'Do you supply locally fabricated equipment too?', answer: 'Yes. Several items in the range, such as grills, shawarma machines and cookers, are available as locally fabricated units in different sizes as well as imported models. Ask us which suits your budget and workload.' },
@@ -89,8 +89,8 @@ Pick a range below or request a quote and we will confirm models, options and de
 If you are starting a small production business or scaling an existing one, tell us what you make and how much you want to produce. We will help you pick machines that suit the product and the volume, and quote them together.
 
 Search the range below or send a quote request.`,
-    seoTitle: 'Food Processing Machines in Nigeria | Juicers & Grinders | MASFIG',
-    seoDescription: 'Juice extractors, grinders, chin chin cutters, groundnut roasters, meat mincers and vegetable cutters from MASFIG LTD, Lagos. Request a quote today.',
+    seoTitle: 'Food Processing Machines Nigeria & Lagos | MASFIG',
+    seoDescription: 'Food processing machines in Nigeria: juice extractors, grinders, chin chin cutters, groundnut roasters and meat mincers from Lagos. Get a quote today.',
     faqs: [
       { question: 'Can you recommend machines for a small food production start-up?', answer: 'Yes. Tell us what you want to produce and your target daily volume. We will suggest a short list of machines for the first stage and what to add as demand grows.' },
       { question: 'Do these machines need three-phase power?', answer: 'Power requirements differ by machine. We confirm the electrical or fuel requirement for the specific model when we send your quotation, so you can check it against your site before ordering.' },
@@ -110,8 +110,8 @@ Search the range below or send a quote request.`,
 Tell us what is on your menu and how you plan to serve it, whether that is a shawarma spot, a snack shop, a pizza outlet or an ice cream parlour, and we will help you build a practical equipment list for your counter and kitchen.
 
 Search the range below or request a quote for the full set.`,
-    seoTitle: 'Fast Food & Restaurant Equipment Nigeria | Fryers & Warmers',
-    seoDescription: 'Deep fryers, food warmers, shawarma machines, ice cream machines and display chillers for fast food outlets from MASFIG LTD, Lagos. Get a quote.',
+    seoTitle: 'Restaurant & Fast Food Equipment Nigeria, Lagos',
+    seoDescription: 'Restaurant and fast food equipment in Lagos, Nigeria: fryers, food warmers, shawarma and ice cream machines, display chillers. Request a quote.',
     faqs: [
       { question: 'What equipment do I need to open a fast food outlet?', answer: 'It depends on your menu, but most outlets need cooking equipment such as a fryer or grill, food and snack warmers, refrigeration and a clean preparation surface. Our guide to starting a fast food business lists the equipment by menu type.' },
       { question: 'Can I order a complete set for a new outlet?', answer: 'Yes. Send us your menu and floor space and we will quote a complete set so that the equipment works together in your layout.' },
@@ -131,8 +131,8 @@ Search the range below or request a quote for the full set.`,
 Tell us what you need to chill or freeze, how much space you have and how it will be displayed, and we will recommend suitable units. Because grid power can be unreliable, plan your power supply together with your refrigeration; our guide covers what to ask before you buy.
 
 Search the range below or request a quote.`,
-    seoTitle: 'Commercial Refrigeration Nigeria | Chillers & Freezers | MASFIG',
-    seoDescription: 'Display chillers, cake chillers, fridge/freezers, ice machines and ice cream machines from MASFIG LTD, Lagos. Request a quote for your business.',
+    seoTitle: 'Commercial Refrigeration Nigeria & Lagos | Chillers',
+    seoDescription: 'Commercial refrigeration in Nigeria: display chillers, cake chillers, fridge/freezers and ice machines from MASFIG, Lagos. Request a quote for your business.',
     faqs: [
       { question: 'What is the difference between a chiller and a freezer?', answer: 'A chiller keeps products cold for display or short-term storage, while a freezer keeps them frozen. Many units are sold as fridge/freezers that can be set for either. Tell us what you are storing and we will suggest the right type.' },
       { question: 'Can refrigeration run on a generator or inverter?', answer: 'Refrigeration needs a stable supply and a start-up surge. Share the equipment list with your electrician when sizing a generator or inverter; we can confirm the electrical details of each model on request.' },
@@ -152,8 +152,8 @@ Search the range below or request a quote.`,
 Many items come in a range of lengths, so measure your space and tell us what you need. We can help you work out a layout that puts preparation, cooking, washing and storage in a sensible order and keeps ventilation where it belongs, above the cooking line.
 
 Browse the range or send a quote request with your measurements.`,
-    seoTitle: 'Stainless Steel Kitchen Furniture Nigeria | Tables & Sinks',
-    seoDescription: 'Stainless worktables, sinks, shelves, trolleys, kitchen hoods and extractor fans from MASFIG LTD, Lagos. Send your measurements for a quote.',
+    seoTitle: 'Stainless Kitchen Equipment Nigeria & Lagos | MASFIG',
+    seoDescription: 'Stainless steel worktables, sinks, shelves, trolleys, kitchen hoods and extractor fans for Nigerian kitchens, from Lagos. Send measurements for a quote.',
     faqs: [
       { question: 'Can I order a table or hood to my own measurements?', answer: 'Many items are offered in a range of lengths, shown in feet. Send us your measurements and we will confirm what is available or whether a custom size is possible.' },
       { question: 'Where should the kitchen hood go?', answer: 'A hood belongs directly above the cooking line, sized to cover the equipment beneath it, with an extractor to carry heat and fumes out. Send us your layout and we will advise on a suitable hood.' },
@@ -173,8 +173,8 @@ Browse the range or send a quote request with your measurements.`,
 Whether you are fitting out a mini-mart or a full supermarket, send us your floor plan or the shop dimensions and your product mix. We will help you plan shelf runs, the checkout area and your cold chain together and quote the full set.
 
 Browse the range or request a quote.`,
-    seoTitle: 'Supermarket Equipment in Nigeria | Gondola Shelves | MASFIG',
-    seoDescription: 'Gondola shelves, checkout counters, shopping trolleys, baskets and display chillers from MASFIG LTD, Lagos. Send your floor plan for a quote.',
+    seoTitle: 'Supermarket Equipment Nigeria & Lagos | Gondola Shelves',
+    seoDescription: 'Supermarket equipment in Nigeria: gondola shelves, checkout counters, trolleys, baskets and display chillers from Lagos. Send your floor plan for a quote.',
     faqs: [
       { question: 'What do I need to fit out a mini supermarket?', answer: 'Most stores need gondola shelving, a checkout counter, baskets or trolleys, and display chillers and freezers for cold goods. Our supermarket equipment guide lists the items in order of priority.' },
       { question: 'Do you supply shelves in different colours and finishes?', answer: 'Some shelves are offered in several colours and finishes. Tell us what you prefer and we will confirm availability when we quote.' },
@@ -194,8 +194,8 @@ Browse the range or request a quote.`,
 For general packaging we supply pedal, impulse, band, cup, vacuum and nitrogen sealers, vertical and powder or granular packaging machines, and nylon sealers for bread and luggage.
 
 Producing packaged water also involves regulatory approval; our guide explains the steps to plan for. Browse the range or request a quote for your line.`,
-    seoTitle: 'Water Production & Packaging Machines Nigeria | MASFIG',
-    seoDescription: 'Sachet and bottled water machines, PET blowers, water treatment, coding printers and packaging sealers from MASFIG LTD, Lagos. Request a quote.',
+    seoTitle: 'Water Production & Packaging Machines Nigeria, Lagos',
+    seoDescription: 'Sachet and bottled water machines, PET blowers, water treatment, coding printers and sealers in Nigeria, from Lagos. Request a quote today.',
     faqs: [
       { question: 'Do you supply a complete sachet water factory setup?', answer: 'Yes. The range includes complete sachet and bottle water setups as well as individual machines for treatment, filling, sealing, coding and wrapping. Tell us your target output and we will quote what you need.' },
       { question: 'Do I need approval to sell packaged water?', answer: 'Packaged water is a regulated food product in Nigeria, and producers register their product and premises with the regulator, NAFDAC. Our guide to starting a water business outlines what to prepare; confirm current requirements with NAFDAC directly.' },
@@ -215,8 +215,8 @@ Producing packaged water also involves regulatory approval; our guide explains t
 Tell us how much laundry you process, whether it is hotel linen, uniforms or customers' clothes, and what space and utilities you have. We will help you choose machines that match your volume and quote them together with delivery and installation details.
 
 Browse the range or request a quote.`,
-    seoTitle: 'Commercial Laundry Equipment Nigeria | Washers & Dryers',
-    seoDescription: 'Commercial washing machines, dryers, washer-dryers and ironing machines for hotels and laundries from MASFIG LTD, Lagos. Request a quote.',
+    seoTitle: 'Commercial Laundry Equipment Nigeria & Lagos | MASFIG',
+    seoDescription: 'Commercial washing machines, dryers and ironing machines for hotels and laundries in Nigeria, supplied from Lagos. Request a quote for your business.',
     faqs: [
       { question: 'How do I choose the right washing machine size?', answer: 'Size the machine to your daily volume and peak loads. Tell us how many kilograms of laundry you process per day and we will recommend suitable machines and the number of units.' },
       { question: 'What utilities does a commercial laundry need?', answer: 'Most commercial machines need a water supply, drainage and a power or gas connection. We confirm the requirements of the specific model when we quote so you can prepare the site.' },
@@ -236,8 +236,8 @@ Browse the range or request a quote.`,
 Whether you run an event company, a venue, a church or a club, tell us the size of the space, the number of guests and the kind of events you host. We will help you choose a set that fits your venue and your budget.
 
 Browse the range or request a quote.`,
-    seoTitle: 'Sound, Lighting & Stage Equipment Nigeria | Speakers & Truss',
-    seoDescription: 'Line array speakers, mobile sound setups, stage and truss systems, parcan and COB lights and effects from MASFIG LTD, Lagos. Request a quote.',
+    seoTitle: 'Sound, Lighting & Stage Equipment Nigeria & Lagos',
+    seoDescription: 'Line array speakers, mobile sound, stage and truss systems and lights for events and churches in Nigeria, from Lagos. Request a quote.',
     faqs: [
       { question: 'Can you recommend a sound system for my venue?', answer: 'Yes. Tell us the size of the room or outdoor space, the number of guests and the type of events, and we will suggest speakers and amplification that suit it.' },
       { question: 'Do you supply stage and truss systems?', answer: 'Yes. The range includes stages, full stage and truss with canopy, trussing with lights or speakers and the individual truss parts.' },
