@@ -9,7 +9,7 @@ export const PASSWORD = 'correct-horse-battery'
 
 export async function resetDb() {
   await prisma.$executeRawUnsafe(
-    `TRUNCATE "AuditLog","Enquiry","_PostToProduct","Post","Faq","ProductImage","Product","Category","Media","Session","LoginAttempt","HeroSlide","Section","SiteTheme","User" RESTART IDENTITY CASCADE`,
+    `TRUNCATE "AuditLog","SiteEvent","Enquiry","_PostToProduct","Post","Faq","ProductImage","Product","Category","Media","Session","LoginAttempt","HeroSlide","Section","SiteTheme","User" RESTART IDENTITY CASCADE`,
   )
 }
 

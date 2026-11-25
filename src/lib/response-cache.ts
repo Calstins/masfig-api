@@ -15,6 +15,7 @@ export function responseCache(paths: string[]): RequestHandler {
   return (req, res, next) => {
     if (process.env.NODE_ENV === 'test') return next()
     if (req.method !== 'GET') {
+      if (req.path.startsWith('/track')) return next() // visitor statistics never change the catalogue
       res.on('finish', () => { if (res.statusCode < 400) clearResponseCache() })
       return next()
     }

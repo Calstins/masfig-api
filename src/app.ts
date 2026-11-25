@@ -10,6 +10,7 @@ import { HttpError } from './lib/errors.js'
 import { authenticate } from './middleware/auth.js'
 import { authRouter } from './routes/auth.js'
 import { contentRouter } from './routes/content.js'
+import { analyticsAdminRouter, trackRouter } from './routes/analytics.js'
 import { enquiryAdminRouter, enquiryPublicRouter } from './routes/enquiries.js'
 import { mediaRouter, sectionsRouter, themeRouter } from './routes/legacy.js'
 import { opsRouter } from './routes/ops.js'
@@ -52,6 +53,7 @@ export function createApp() {
 
   // Public catalogue and enquiries.
   api.use('/enquiries', enquiryPublicRouter)
+  api.use('/track', trackRouter)
   api.use(publicRouter)
   api.use(siteRouter)
 
@@ -60,6 +62,7 @@ export function createApp() {
   admin.use(authenticate)
   admin.use('/users', usersRouter)
   admin.use('/enquiries', enquiryAdminRouter)
+  admin.use('/analytics', analyticsAdminRouter)
   admin.use(opsRouter)
   admin.use(contentRouter)
   admin.use(siteAdminRouter)

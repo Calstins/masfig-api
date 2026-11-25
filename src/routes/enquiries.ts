@@ -88,3 +88,20 @@ enquiryAdminRouter.post('/:id/handled', async (req, res) => {
   await audit(req.user!.id, handled ? 'enquiry.handled' : 'enquiry.reopen', 'Enquiry', id)
   res.json(row)
 })
+
+// Deleting is permanent, so it is limited to admins (editors can still read and mark enquiries handled).
+enquiryAdminRouter.delete('/:id', requirePermission('content:delete'), async (req, res) => {
+  const id = idParam(req)
+  const existing = await prisma.enquiry.findUnique({ where: { id } })
+  if (!existing) throw notFound()
+  await prisma.enquiry.delete({ where: { id } })
+  await audit(req.user!.id, 'enquiry.delete', 'Enquiry', id, { name: existing.name, kind: existing.kind })
+  res.json({ ok: true, deleted: 1 })
+})
+
+enquiryAdminRouter.post('/delete-many', requirePermission('content:delete'), async (req, res) => {
+  const { ids } = z.object({ ids: z.array(z.number().int().positive()).min(1).max(200) }).parse(req.body)
+  const { count } = await prisma.enquiry.deleteMany({ where: { id: { in: ids } } })
+  await audit(req.user!.id, 'enquiry.delete', 'Enquiry', null, { count, ids })
+  res.json({ ok: true, deleted: count })
+})

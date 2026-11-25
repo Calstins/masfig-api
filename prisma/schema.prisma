@@ -311,3 +311,19 @@ model HeroSlide {
 
   @@index([active, sortOrder])
 }
+
+/// First-party, cookie-free site statistics: one row per page view or click (WhatsApp, call, email, product view).
+/// No IP address is stored. `visitor` is a hash that changes every day, so it counts daily visitors but cannot follow a person.
+model SiteEvent {
+  id        Int      @id @default(autoincrement())
+  type      String
+  path      String
+  label     String?
+  source    String?
+  device    String?
+  visitor   String?
+  createdAt DateTime @default(now())
+
+  @@index([type, createdAt])
+  @@index([createdAt])
+}

@@ -95,3 +95,10 @@ email, opening hours, real product list with photos and specs, and prices only i
 - Privacy and Terms are draft templates: have them reviewed before launch. Delivery & installation wording must be confirmed by MASFIG.
 - The API keeps a 20-second cache of the public catalogue. On Vercel each running instance has its own, so a change can take up to 20 seconds to appear everywhere.
 - WhatsApp on the site is a click-to-chat link only. No automation is attached.
+
+## Updating an existing deployment: visitor statistics
+
+This update adds the `SiteEvent` table (page views and click counts shown in Admin > Tracking & stats) and enquiry deletion.
+1. Copy the new files in, then apply the migration to Neon from your computer: `npm run db:deploy` (needs `DATABASE_URL` pointing at Neon).
+2. Redeploy the API on Vercel, then redeploy the Cloudflare Pages site.
+Counting starts once both are live. Nothing else needs configuring.
