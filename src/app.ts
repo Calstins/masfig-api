@@ -35,6 +35,7 @@ export function createApp() {
       maxAge: 600,
     }),
   )
+  app.use((req, res, next) => { if (req.method !== 'GET' || req.path.startsWith('/api/admin') || req.headers.authorization) res.setHeader('Cache-Control', 'no-store'); next() })
   app.use(express.json({ limit: '1mb' }))
 
   const api = Router()
